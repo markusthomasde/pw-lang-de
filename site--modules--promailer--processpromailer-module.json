@@ -1,0 +1,186 @@
+{
+    "file": "site\/modules\/ProMailer\/ProcessProMailer.module",
+    "textdomain": "site--modules--promailer--processpromailer-module",
+    "translations": {
+        "36a5b201eda6a9c0abfb8b972a1213a0": {
+            "text": "Abonnenten Listen"
+        },
+        "39f7a3e2b56e9bfd753ba6325533a127": {
+            "text": "Abonnenten"
+        },
+        "41de6d6cfb8953c021bbe4ba0701c8a1": {
+            "text": "Nachrichten"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Aktionen"
+        },
+        "a0bfb8e59e6c13fc8d990781f77694fe": {
+            "text": "Weiter"
+        },
+        "b357b524e740bc85b9790a0712d84a30": {
+            "text": "E-Mail Adresse"
+        },
+        "ca261e076a62c52a5d977e96eae6edc8": {
+            "text": "Nach wie vielen Tagen sollen unbest\u00e4tigte Empf\u00e4nger gel\u00f6scht werden?"
+        },
+        "b2d37ae1cedf42ff874289b721860af2": {
+            "text": "Protokolle"
+        },
+        "7a1920d61156abc05a60135aefe8bc67": {
+            "text": "Standard"
+        },
+        "8a500e42dce5c62e1f47464aab806d31": {
+            "text": "1-Klick Austragen vom Newsletter"
+        },
+        "789650163606d4bf5f639f0cd9eaecb6": {
+            "text": "Aktiviert \u00fcber die Webseite"
+        },
+        "9263d93da75731053270c97baa0472bd": {
+            "text": "Wenn nichts ausgew\u00e4hlt wird, k\u00f6nnen alle Templates verwendet werden"
+        },
+        "7c9ca1a0395393577cf4cf3f3e7f0b8d": {
+            "text": "(%d Seite)"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d Seiten)"
+        },
+        "908e22bdcb9e69c35d6904885e20c62e": {
+            "text": "(%d Abonnent)"
+        },
+        "6e1f0692531092db1d00c53328f1de71": {
+            "text": "(%d Abonnenten)"
+        },
+        "ccf8c154a047539545e2c32fad8574fc": {
+            "text": "Newslettersystem"
+        },
+        "24a23d787190f2c4812ff9ab11847a72": {
+            "text": "="
+        },
+        "f601a803534ce8aac7626415118106d3": {
+            "text": "="
+        },
+        "46655468bd46a03b679d26cde5a8f531": {
+            "text": "Mailer"
+        },
+        "8a1444da3e10e82ee318f3c192169472": {
+            "text": "(lass ProcessWire entscheiden)"
+        },
+        "af1b73b394fe033425193a0e5cc1316d": {
+            "text": "Standard PHP mail()"
+        },
+        "c58a808add115179cf7e06a524f7c9b1": {
+            "text": "Templates die f\u00fcr E-Mails erlaubt sind"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "+"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "+"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "+"
+        },
+        "7cdffffb8530b536ede66e97d7a8b932": {
+            "text": "Standard-E-Mail-\"von\"-Einstellungen"
+        },
+        "2cfc05de7eb91241c6dac3b2ee83a834": {
+            "text": "Diese Einstellungen werden beim Senden von Best\u00e4tigungs-E-Mails an neue Abonnenten verwendet."
+        },
+        "3429d3430f85dc11bc911ce79ceaddaa": {
+            "text": "Sie werden auch als Standardwerte beim Erstellen neuer Nachrichten verwendet, k\u00f6nnen jedoch pro Nachricht \u00fcberschrieben werden."
+        },
+        "b085dd4c2f0326013fd91185630c0fa3": {
+            "text": "Name der Firma oder Person"
+        },
+        "12201282a523656669e4bcb22c505b1b": {
+            "text": "Abonnenten Wartungseinstellungen"
+        },
+        "462f982db385e9833c28261e3c85aea8": {
+            "text": "Wenn Abonnenten ihre E-Mail-Adresse nach so vielen Tagen nicht best\u00e4tigen, werden sie entfernt."
+        },
+        "b942d287b2e4fc5680295a9a1d29167e": {
+            "text": "Abonnenten nach so vielen Bounces entfernen"
+        },
+        "8b98e1c6985de2efa2e4133b3072d463": {
+            "text": "Gravatar-Bilder f\u00fcr Abonnenten im Admin anzeigen?"
+        },
+        "26396be8741c545355792ec88c55db3d": {
+            "text": "F\u00fcr weitere Versandoptionen k\u00f6nnen Sie WireMail-Module installieren."
+        },
+        "a4c0f86a64110ca5c709d69cc74d9704": {
+            "text": "Mailer, der f\u00fcr E-Mails verwendet werden soll"
+        },
+        "93644822cb7d189d5592049f19df9ca6": {
+            "text": "Dies wird f\u00fcr alle automatisierten E-Mails verwendet, die von ProMailer versendet werden, wie z.B. Best\u00e4tigungsmails f\u00fcr Opt-Ins."
+        },
+        "d5c52ae284a9256241230927f4b0bef5": {
+            "text": "Mailer zum Vorschlagen f\u00fcr Massen-E-Mails"
+        },
+        "3651517b1eb2f1aea44b204ece6b710a": {
+            "text": "Dies ist der standardm\u00e4\u00dfig ausgew\u00e4hlte Mailer, der f\u00fcr das Senden von Nachrichten an Listen verwendet wird."
+        },
+        "469cd725ca3dac190e7729b671e3f5fa": {
+            "text": "Der Absender kann optional einen anderen ausw\u00e4hlen, aber dieser wird als Standard ausgew\u00e4hlt."
+        },
+        "d537e77a1104a1c83b29c8b28ab64fd8": {
+            "text": "Diese Einstellung gilt nicht f\u00fcr bestehende Nachrichten, f\u00fcr die bereits ein Mailer ausgew\u00e4hlt ist."
+        },
+        "f264ed5ec98a021d6365781fc06ff429": {
+            "text": "Mailer zum Erzwingen von Massen-E-Mails"
+        },
+        "4d822ae6de3360c9468c09560271b4e4": {
+            "text": "Wenn Sie nicht m\u00f6chten, dass der sendende Benutzer eine Auswahl an Mailern hat, erzwingen Sie hier die Verwendung eines bestimmten Mailers."
+        },
+        "834d9b00f71f78c9e3d0282452f3f5c0": {
+            "text": "Wir empfehlen, dies deaktiviert zu lassen, es sei denn, Sie m\u00fcssen nur einen einzigen Mailer f\u00fcr Massen-E-Mails zulassen."
+        },
+        "13e6c1fbd0b3850efb8e1c46c20e64d0": {
+            "text": "Deaktiviert (w\u00e4hlen Sie stattdessen pro Nachricht)"
+        },
+        "0f2986b6c11a2a190e06e6d9170c2978": {
+            "text": "Einen X-Mailer-Header in gesendete E-Mails einf\u00fcgen?"
+        },
+        "69f2a3bd7deab59f7c252e7519f87a5c": {
+            "text": "Dies f\u00fcgt Unterst\u00fctzung f\u00fcr \"List-Unsubscribe\"-E-Mail-Header hinzu, wie in RFC 2369 und RFC 8058 beschrieben."
+        },
+        "1ee5472a05aea41fc30a11a7d3c3a0f0": {
+            "text": "Wie wollen Sie die Ein-Klick-Abmeldung anbieten?"
+        },
+        "6f8b93b18cc487ca6b8a6183142298d7": {
+            "text": "Beachten Sie, dass verschiedene E-Mail-Provider hier unterschiedliche Optionen unterst\u00fctzen. Wenn Sie also die 1-Klick-Abmeldung verwenden, wird empfohlen, wenn m\u00f6glich die letzte Option (beide) zu w\u00e4hlen."
+        },
+        "3173931166e126477e2b156958792caa": {
+            "text": "Deaktiviert (Benutzer muss Abmeldung auf der Zielseite best\u00e4tigen)"
+        },
+        "abdeb8339a37715d4544241b3aae9bd1": {
+            "text": "Aktiviert durch die E-Mail Adresse, die Sie \u00fcberwachen und verwalten"
+        },
+        "0bc0ac05740afcb1b874627d216b81a2": {
+            "text": "Aktiviert durch beide obigen Optionen: Seite und E-Mail"
+        },
+        "ec352e5fc8d934409c47fbf94def9dcb": {
+            "text": "E-Mail-Adresse, die Abmeldeanfragen \u00fcberwacht"
+        },
+        "a6d8fe39c6bfc87782190504fecd2589": {
+            "text": "Sie m\u00fcssen E-Mails, die an diese Adresse gehen, \u00fcberwachen und manuell abbestellen (in ProMailer)."
+        },
+        "69bb916888b600d2eb0052039fb34b90": {
+            "text": "Dies ist die einzige Ein-Klick-Abmeldem\u00f6glichkeit, die von Microsoft-E-Mail-Clients wie Hotmail unterst\u00fctzt wird."
+        },
+        "be897feb46fb64d1b2f7008154e81464": {
+            "text": "Begrenzen Sie die Ein-Klick-Abmeldung auf diese Domains"
+        },
+        "d6a0c0e96bc7c314a6f6be6daa74a308": {
+            "text": "Geben Sie eine Domain pro Zeile ein, um die Ein-Klick-Abmeldeoption auf E-Mail-Adressen zu beschr\u00e4nken, die von diesen gehostet werden."
+        },
+        "b1f67e2987e237c2e72cec364312addf": {
+            "text": "N\u00fctzlich, wenn Sie die Funktion nur auf Provider beschr\u00e4nken wollen, von denen bekannt ist, dass sie sie vollst\u00e4ndig\/richtig unterst\u00fctzen, wie z. B. gmail.com."
+        },
+        "9211f93bf7bb8199b810db75901ffa88": {
+            "text": "Wenn keine Domains eingetragen sind, sind alle Domains erlaubt."
+        },
+        "55f5630e8b8f582caaceffebe0cf42bb": {
+            "text": "Wenn Sie eine gerenderte Seite als E-Mail-Inhalt verwenden, werden nur Seiten zugelassen, die diese Vorlagen verwenden."
+        }
+    }
+}

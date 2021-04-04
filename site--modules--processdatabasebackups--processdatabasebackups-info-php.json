@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/ProcessDatabaseBackups\/ProcessDatabaseBackups.info.php",
+    "textdomain": "site--modules--processdatabasebackups--processdatabasebackups-info-php",
+    "translations": {
+        "102db3791f50f85761ae97df4aabb113": {
+            "text": "Datenbank Backups"
+        },
+        "080476b086987bdfaac84e0c80104984": {
+            "text": "Erstellen und \/ oder Wiederherstellen von Datenbanksicherungen im ProcessWire-Admin."
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Anzeigen"
+        },
+        "91412465ea9169dfd901dd5e7c96dd99": {
+            "text": "="
+        },
+        "3500ba09d0538297440ca620c9dd46bf": {
+            "text": "="
+        }
+    }
+}

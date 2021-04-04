@@ -1,0 +1,93 @@
+{
+    "file": "site\/modules\/Pages2Pdf\/Pages2Pdf.module",
+    "textdomain": "site--modules--pages2pdf--pages2pdf-module",
+    "translations": {
+        "3da5f6dd31ccef47b495b222ab439ef6": {
+            "text": "Das Verzeichnis '$folder' in '\/site\/templates\/' konnte nicht erstellt werden. Bitte erstellen Sie es manuell und kopieren Sie alle Dateien aus '\/site\/modules\/Pages2Pdf\/default_templates\/'."
+        },
+        "f833ca4d4f573687e93c644ba2bc907d": {
+            "text": "Das Kopieren von '$file' von '$path_from' nach '$path_to' ist fehlgeschlagen. Bitte kopieren Sie diese Datei manuell."
+        },
+        "f68bf13b0d203ae417c8dd0afe53faf6": {
+            "text": "Pages2Pdf: Gel\u00f6schte PDF-Datei '%s'"
+        },
+        "750b4c090e964dc433f4afb0b872ba84": {
+            "text": "Pages2Pdf: PDF-Datei '%s' konnte nicht gel\u00f6scht werden"
+        },
+        "3a8e55f798616b160f171cbbc0dd5829": {
+            "text": "Pages2Pdf: Erstellte PDF-Datei(en) '%s'"
+        },
+        "afa0e443a161e904a03bbbc333506256": {
+            "text": "PDF drucken"
+        },
+        "83071ac02263ba5f46aaf855b4f871c3": {
+            "text": "Pages2Pdf: Template der angeforderten Seite darf keine PDFs erzeugen"
+        },
+        "3123301583423cb0ce615cb763069f15": {
+            "text": "Erzeugt PDF-Dateien von Seiten. Das HTML-Markup der PDFs ist mit ProcessWire-Templates anpassbar."
+        },
+        "d77150358633e62f730ca5f527c6a55f": {
+            "text": "Aktivierte Templates"
+        },
+        "03c3616aa5e441a13fdf5ef441878e10": {
+            "text": "Seiten der ausgew\u00e4hlten Vorlagen d\u00fcrfen PDF-Dateien erstellen"
+        },
+        "bd6b1060e0b0215e2c69dd9fc3406edd": {
+            "text": "Kopfzeile drucken"
+        },
+        "3d2e4e6cc6ea2320fd25152ee7003a71": {
+            "text": "Pr\u00fcfen Sie, ob eine Kopfzeile in den PDF-Dateien gedruckt werden soll. Markup definiert in \/site\/templates\/pages2pdf\/_header.php"
+        },
+        "fc0d1c1d1d802176e3912542ef895905": {
+            "text": "Fu\u00dfzeile drucken"
+        },
+        "20a80def2223981cbd436eda5aa64b1d": {
+            "text": "Pr\u00fcfen Sie, ob eine Fu\u00dfzeile in den PDF-Dateien gedruckt werden soll. Markup definiert in \/site\/templates\/pages2pdf\/_footer.php"
+        },
+        "f99267ee253f3cfa97c8a545817144c0": {
+            "text": "Cache-Zeit"
+        },
+        "85650563fec742cadd3584af7820da0c": {
+            "text": "Geben Sie eine Zeit in Sekunden ein, wie lange eine PDF-Datei zwischengespeichert wird, bevor sie vom Modul neu erstellt wird"
+        },
+        "a324f7cfa9311c1f4adb74614f832569": {
+            "text": "Wenn der Debug-Modus aktiviert ist, wird das Caching umgangen, um aktuelle PDF-Dateien zu liefern"
+        },
+        "26cf6c107a6dc1d8bd9dec8770663964": {
+            "text": "PDF-Dateiname"
+        },
+        "b6704e80270cc8dde9a7848ec7952395": {
+            "text": "Generierter Name von PDF-Dateien. Verf\u00fcgbare Platzhalter sind {page.name} und {page.id}"
+        },
+        "f778f77de6e65de5d0506fc6ff315e8d": {
+            "text": "Verf\u00fcgbare Zeichen: %s"
+        },
+        "b864759d534539519ceaa2c03a39d4c2": {
+            "text": "GET-Variable"
+        },
+        "9b69aa0298df38ab0f6ae7ca1e7ac1ac": {
+            "text": "GET-Variable, die beim Anfordern einer PDF-Datei einer Seite verwendet wird"
+        },
+        "d4cad3a99a6a73122debde6e06581e37": {
+            "text": "Erstellungsmodus"
+        },
+        "b0dc01e166156b9a7a0d968a142f8f82": {
+            "text": "Sollen PDF-Dateien beim Klick (beim Anfordern eines Downloads) oder beim Speichern von Seiten im Adminbereich erzeugt und zwischengespeichert werden"
+        },
+        "4c73f1ded25f68ae09c46b01676e1f03": {
+            "text": "Bei Klick, wenn ein Download einer PDF-Datei angefordert wird"
+        },
+        "3a4511ff67c23fa2a96b3e4831005b8e": {
+            "text": "Nach dem Speichern von Seiten im Admin"
+        },
+        "6a32ebe75aefeebae970f8e40eccffbb": {
+            "text": "Mehrsprachige Unterst\u00fctzung"
+        },
+        "ce7c0b6a1e6d4ab1e0160b8bf63c81f0": {
+            "text": "Wenn aktiviert, werden die PDF-Dateien pro Sprache erzeugt. Wenn ein Download angefordert wird, wird das PDF in der Sprache des Benutzers geliefert, sofern verf\u00fcgbar."
+        },
+        "36c0a456235c32dd4ed47dd547580fc5": {
+            "text": "F\u00fcr diese Funktion muss das Coremodul \"Languages Support\" installiert sein"
+        }
+    }
+}

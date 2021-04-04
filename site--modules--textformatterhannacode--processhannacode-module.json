@@ -1,0 +1,144 @@
+{
+    "file": "site\/modules\/TextformatterHannaCode\/ProcessHannaCode.module",
+    "textdomain": "site--modules--textformatterhannacode--processhannacode-module",
+    "translations": {
+        "d9751e5357213544ccc772f69a2d480e": {
+            "text": "="
+        },
+        "9e13b69d1d2da927102acaaaf7154a37": {
+            "text": "="
+        },
+        "2fec392304a5c23ac138da22847f9b7c": {
+            "text": "="
+        },
+        "760215bcc8f813fcf9ab1e8298348591": {
+            "text": "Noch keine Hanna Codes, f\u00fcge einen hinzu!"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "+"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importieren"
+        },
+        "5b46ff807bfc5feb6bac1832493f8d93": {
+            "text": "Hanna Code importieren"
+        },
+        "4f08f5a58f8fedccfee9f91616658f87": {
+            "text": "Hanna Code mit diesem Namen existiert bereits"
+        },
+        "4e9ce4e380c452653e353007e2a24d1e": {
+            "text": "Importierter Hanna Code"
+        },
+        "4205b487532644ab0ef870aa5d51d991": {
+            "text": "Dieser Test dient haupts\u00e4chlich dazu, nach Analysefehlern zu suchen. Eine leere Ausgabe zeigt an, dass keine Analysefehler aufgetreten sind. Sie sollten immer noch in einem realen Kontext testen, bevor Sie davon ausgehen, dass es funktioniert. Die Ausgabe erfolgt im gestrichelten Feld unten:"
+        },
+        "f497e26712c301768f92a13dfd3ccdd1": {
+            "text": "Ausgef\u00fchrt in %s Sekunden"
+        },
+        "97a91e9785cff63760a85eb7d67b9689": {
+            "text": "Hanna Code bearbeiten:"
+        },
+        "573bfa1f922790b30cf7e9ecc87d0118": {
+            "text": "Neuen Hanna Code hinzuf\u00fcgen"
+        },
+        "ae153b9ba600986b176bfbd3b83fc619": {
+            "text": "Dieser Hanna Code ist 'read-only'"
+        },
+        "8c8f3f04c507b71b358bde87202a42cb": {
+            "text": "Beliebige Kombination dieser Zeichen: -_. A-zA-Z0-9 (d.h. Buchstaben, Zahlen, Bindestriche, Unterstriche, Punkte, keine Leerzeichen)"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "+"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "+"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "+"
+        },
+        "88de316125ea1c32445f3d6e3e09520f": {
+            "text": "Umgebendes HTML-Tag ersetzen?"
+        },
+        "4d90abc3e4d628646eef8558ce3a1088": {
+            "text": "Sollte die Ausgabe dieses Hanna-Codes das unmittelbar umgebende HTML-Tag ersetzen, wenn dies das einzige Element im Tag ist? Wenn Ihr Hanna Code HTML auf Blockebene (wie <ul> oder <p> -Tags) ausgibt, sollte dies wahrscheinlich Ja sein."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Attribute"
+        },
+        "02b8abdcb4e653dcbf28d8ef2dc9cabc": {
+            "text": "Optional, aber empfohlen, wenn Attribute mit PHP oder Javascript verwendet werden: Geben Sie einen Attributnamen pro Zeile ein, den Ihr Hanna Code verwendet. Um einen Standardwert anzugeben, geben Sie ihn als \"attr = value\" ein. Wenn keine Standardeinstellung angegeben ist, wird standardm\u00e4\u00dfig eine leere Zeichenfolge verwendet."
+        },
+        "fd05d7f6bfc90e815087880e8e915b43": {
+            "text": "Beispiele:"
+        },
+        "ca0dbad92a874b2f69b549293387925e": {
+            "text": "="
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Optionen"
+        },
+        "fc1b2ffdce4110e9f6791a61e25caa22": {
+            "text": "Die hier ausgew\u00e4hlten Einstellungen gelten f\u00fcr diese Sitzung. Wenn Sie sie dauerhaft festlegen m\u00f6chten, w\u00e4hlen Sie sie in der ProcessHannaCode-Modulkonfiguration aus."
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "="
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "+"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "+"
+        },
+        "f1fa184f2dc2a079bad363012a8f9de5": {
+            "text": "Speichern & Testen"
+        },
+        "9b857a8e2526a23b4123e65954d247b2": {
+            "text": "+"
+        },
+        "b513e43a2120bd6243229298ae23a550": {
+            "text": "="
+        },
+        "866e3723f33e9b63897bc7787e31612c": {
+            "text": "="
+        },
+        "235d4b101c0eb515151281f45e483cc3": {
+            "text": "+"
+        },
+        "ff627cd9120cf547b92d19f8acc81404": {
+            "text": "+"
+        },
+        "68e931aa03512778fd3844e3ee58a44a": {
+            "text": "Zugriffe"
+        },
+        "c91996e1140a87d090f7b303cd94b445": {
+            "text": "Testergebnis"
+        },
+        "752b464c03ab8f9c0f4202327f79d252": {
+            "text": "Sie haben keine Berechtigung, dies zu speichern."
+        },
+        "583fdc18e4584acc9a3cd8afe5fe5f19": {
+            "text": "Gespeicherte Hanna Codes"
+        },
+        "d721757161f7f70c5b0949fdb6ec2c30": {
+            "text": "="
+        },
+        "6ce4d85a628a88bbdb3ac24a8e5a9c2e": {
+            "text": "Tastatur"
+        },
+        "960b44c579bc2f6818d2daaf9e4c16f0": {
+            "text": "="
+        },
+        "992fde656181be141fcc057db92e7e4d": {
+            "text": "Editorh\u00f6he (in Pixel)"
+        },
+        "413a7fab49a6e7f77572edc298ae743f": {
+            "text": "Verhalten"
+        },
+        "a43e4cd8f4c29a80b9ff3c3164f77588": {
+            "text": "Pair: Automatisches Pairing von Sonderzeichen wie Anf\u00fchrungszeichen, Klammern oder Klammern."
+        },
+        "1d62c8c1f49f18fc5f44f4921adc0f6a": {
+            "text": "Umbrechen: Umschlie\u00dfen der Auswahl mit Zeichen wie Klammern, wenn ein solches Zeichen eingegeben wird."
+        }
+    }
+}

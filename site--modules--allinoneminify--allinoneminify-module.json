@@ -1,0 +1,81 @@
+{
+    "file": "site\/modules\/AllInOneMinify\/AllInOneMinify.module",
+    "textdomain": "site--modules--allinoneminify--allinoneminify-module",
+    "translations": {
+        "6a9e8db21f3a8bc0b84783e91c30e54a": {
+            "text": "="
+        },
+        "fa9d2b486bbe222cfa3087ca4fb17170": {
+            "text": "AIOM + (All In One Minify) ist ein Modul zur einfachen Verbesserung der Leistung Ihrer Website. Durch einen einfachen Funktionsaufruf k\u00f6nnen Stylesheets, LESS- und Javascript-Dateien analysiert, minimiert und zu einer einzigen Datei kombiniert werden. Dies reduziert die Serveranforderungen, die Ladezeit und minimiert den Datenverkehr. Dar\u00fcber hinaus kann der generierte HTML-Quellcode minimiert und alle generierten Dateien \u00fcber eine Cookieless-Domain geladen werden (Domain Sharding)."
+        },
+        "a5ec3ba6faa6b52ec209563920157e05": {
+            "text": "="
+        },
+        "43eabf0e7da34dfecd90f738386661c8": {
+            "text": "Das Pr\u00e4fix der generierten kombinierten Stylesheet-Datei. Zul\u00e4ssig: Alphanumerische Zeichen wie \"A-Z, 0-9 und _ -\"."
+        },
+        "9e071127a0ca12411ce44b0a2184d5f6": {
+            "text": "="
+        },
+        "e4b6d4087113781f62658dc134404871": {
+            "text": "Das Pr\u00e4fix der generierten kombinierten Javascript-Datei. Zul\u00e4ssig: Alphanumerische Zeichen wie \"A-Z, 0-9 und _ -\"."
+        },
+        "1a10be3692cec335c74387f33221a6fa": {
+            "text": "Lebensdauer"
+        },
+        "d5a8953cd541cfc70bde07d49bd4d2a2": {
+            "text": "Die max. Lebensdauer der zwischengespeicherten Dateien in Sekunden. Mindest. 60 Sekunden, max. 31536000 Sekunden (1 Jahr)."
+        },
+        "8565ce787836f7fef358814cfbecec22": {
+            "text": "="
+        },
+        "a9b38380c06bdcc556ac51fab52ed6de": {
+            "text": "Aktivieren Sie diese Option, um unn\u00f6tige Leerzeichen und Kommentare aus dem HTML-Quellcode zu entfernen."
+        },
+        "1261d694c7fc8416a13c5b8ab4814e9a": {
+            "text": "Entwicklungsmodus"
+        },
+        "f2acdc66aff19a7fd3bbcca58d4de7e9": {
+            "text": "Aktivieren Sie den Entwicklungsmodus, um das Zwischenspeichern durch den Browser zu verhindern und die Dateien nicht zu minimieren."
+        },
+        "e9ae13b7739c761d9d715d7c70be3e64": {
+            "text": "Verzeichnisdurchquerung zulassen"
+        },
+        "c415bd48020b0cd393f59504caf177d6": {
+            "text": "Aktivieren Sie die Option zum Durchsuchen von Verzeichnissen, um das Hinzuf\u00fcgen von Dateien von au\u00dferhalb der Vorlagenordner zu erm\u00f6glichen. (..\/)"
+        },
+        "0ee2d830dad93f66593ed0d43f24dc89": {
+            "text": "Cache Einstellungen"
+        },
+        "7542ba40c697bd2ce640753093e28c6c": {
+            "text": "Hier k\u00f6nnen Sie alle zwischengespeicherten Dateien l\u00f6schen."
+        },
+        "c25f0cd549bb26c4aa3087b2ead8fee3": {
+            "text": "Zwischengespeicherte Dateien: %s | Benutzter Platz: %s"
+        },
+        "45d5ca8790f94d5d5d2d6eb2da64f906": {
+            "text": "Cache l\u00f6schen"
+        },
+        "b35ec9e09ac75a5f8c6076199dd064d3": {
+            "text": "Domain-Shrading"
+        },
+        "24a8c79ff4b079e0403f6e55b8a53f81": {
+            "text": "Um das Herunterladen von Stylesheets und Javascripts zu beschleunigen, kann dies \u00fcber eine zweite Subdomain (paralleler Download und Cookieless-Domain) zur Verf\u00fcgung gestellt werden. Die zweite Subdomain (z. B. static.mysite.com) muss ebenfalls auf das Webstammverzeichnis von ProcessWire verweisen. Lassen Sie das Feld leer, um diese Option zu deaktivieren."
+        },
+        "574216fe5236e883dac218bea25ba9aa": {
+            "text": "Domain-Shrading (SSL)"
+        },
+        "7ad6dd9b84c1ad0c66a0c45b7080fc3a": {
+            "text": "AIOM+ nutzen"
+        },
+        "77be1f11c2493d3e7685f18e169de4c1": {
+            "text": "Schnelle Einf\u00fchrung in das Modul und dessen Verwendung. Vollst\u00e4ndige Dokumentation unter: %s"
+        },
+        "a65954172468513b90729c99ada0cfe4": {
+            "text": "Performance Tipps"
+        },
+        "e57e18ff31fa987dcc93356a3a1865c1": {
+            "text": "Tipps, wie Sie die Leistung Ihrer Seite noch weiter verbessern k\u00f6nnen und was Sie beachten m\u00fcssen, wenn Sie Domain-Sharding verwenden."
+        }
+    }
+}

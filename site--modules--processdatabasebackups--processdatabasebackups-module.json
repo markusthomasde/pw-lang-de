@@ -1,0 +1,168 @@
+{
+    "file": "site\/modules\/ProcessDatabaseBackups\/ProcessDatabaseBackups.module",
+    "textdomain": "site--modules--processdatabasebackups--processdatabasebackups-module",
+    "translations": {
+        "8c3bde77d281840978acab1ad7a921c3": {
+            "text": "SQL-Datei"
+        },
+        "47e6d3c1ed67377125b62d4c8a0d383d": {
+            "text": "ZIP-Datei"
+        },
+        "3500ba09d0538297440ca620c9dd46bf": {
+            "text": "="
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Wiederherstellen"
+        },
+        "91412465ea9169dfd901dd5e7c96dd99": {
+            "text": "="
+        },
+        "7ac5a1ab23d01d181148ba8cc6c45313": {
+            "text": "Datum\/Zeit"
+        },
+        "5dd3d5c5d90f9b92ea0b0e22a13e7d9a": {
+            "text": "Exportiert von"
+        },
+        "1908624a0bca678cd26b99bfd405324e": {
+            "text": "Dateigr\u00f6\u00dfe"
+        },
+        "1351017ac6423911223bc19a8cb7c653": {
+            "text": "Dateiname"
+        },
+        "9e362f7bde93fb1a52dea86534d5be9c": {
+            "text": "Datenbankname"
+        },
+        "d3a6a364cc77b2ad5e5a0341d67cb7bf": {
+            "text": "Welche Tabellen?"
+        },
+        "58a9aa0bacfa14fd6ba14e4ea879f50d": {
+            "text": "Anzahl exportierter Tabellen"
+        },
+        "99e78b70b99166877be7fc0bc030a298": {
+            "text": "Anzahl erstellter Tabellen"
+        },
+        "f83a1c509f5d7110fe86a66fe3106628": {
+            "text": "Anzahl Zeilen"
+        },
+        "6480751f1ea2865ea9df52e8a7916e12": {
+            "text": "Exportzeit (in Sek.)"
+        },
+        "3706fa5bd017ca3a6cea9c54a0468e0e": {
+            "text": "(alle)"
+        },
+        "8f4ef12b8b8119d55d08be94dc9bbe8d": {
+            "text": "Bisher keine Backups vorhanden"
+        },
+        "fbb7d71920afdff488c3514f3f99fe7c": {
+            "text": "Datei hochladen"
+        },
+        "5720fe9efff2dc670bf6a101675218a6": {
+            "text": "%s Dateien hinzugef\u00fcgt"
+        },
+        "a562f670e8483396327ea2eaf7768b01": {
+            "text": "Alle Tabellen"
+        },
+        "ec8515af1b6337cfd04c9d14a72d8212": {
+            "text": "Backupname"
+        },
+        "f5f2ae9275c2c58f6f0b1620bcc2e4b7": {
+            "text": "Backupbeschreibung"
+        },
+        "6e89678f831ff5f7f7b8e43a5be8bdb6": {
+            "text": "Alle Tabellen sichern?"
+        },
+        "651ae5789ab776f2fcaf80b5e62801dc": {
+            "text": "Tabellen"
+        },
+        "6d58564d489462dbc55a393525a94a47": {
+            "text": "Sicherung l\u00f6schen"
+        },
+        "441502a7afbbb1570b29776d9b084ff2": {
+            "text": "%s gel\u00f6scht"
+        },
+        "0d17be96c4c0a8f101dcaa0ce9c5ee7d": {
+            "text": "%s l\u00f6schen?"
+        },
+        "6b57c8193bf71b9818408e839220a139": {
+            "text": "Sicherung wiederherstellen"
+        },
+        "f935880e3facb160972644a5a56fa8d7": {
+            "text": "%s wiederhergestellt"
+        },
+        "961d8e90248909f65e858c1348174f15": {
+            "text": "%s wiederherstellen?"
+        },
+        "e79a773fb3ec258f5e6836d32749741d": {
+            "text": "Datei"
+        },
+        "4d9c2715f4a85ce6959ad43c6e629e85": {
+            "text": "Datum"
+        },
+        "43b509f8081215dcba8690edfe40e9c7": {
+            "text": "Tabellen"
+        },
+        "96494709dc2928a71d500971b842c2fc": {
+            "text": "Zeilen"
+        },
+        "300902274407d157b4411d95c1f176c7": {
+            "text": "Gr\u00f6\u00dfe"
+        },
+        "a39b3cbab555acaa5f6648a2b0606bd9": {
+            "text": "Aktionen"
+        },
+        "1d04dd15b4d38e5c186f76e4a9e3a0fd": {
+            "text": "="
+        },
+        "9a499769a8bf4e3465e86d413d1dd2cf": {
+            "text": "G\u00fcltig?"
+        },
+        "0aaa747daa32a792ecf65577bf37dd43": {
+            "text": "F\u00fcgen Sie eine neue SQL-Datenbank-Dump-Datei hinzu"
+        },
+        "2f047a0f2fbd64fdd87b54370f1b8f06": {
+            "text": "Ja! Best\u00e4tigter g\u00fcltiger Anfang und Ende der Datei."
+        },
+        "3a34f1bda9876b2d5bee6150ce70bd24": {
+            "text": "Es kann nicht best\u00e4tigt werden, ob eine g\u00fcltige Datei vorhanden ist (wahrscheinlich nicht von diesem Tool erstellt)."
+        },
+        "706b70879cc878605e68e1e65a32f154": {
+            "text": "Wird f\u00fcr den Sicherungsdateinamen verwendet. Die Erweiterung .sql wird automatisch hinzugef\u00fcgt."
+        },
+        "a64ad0665d14f4c8c2ab925a42ef4b24": {
+            "text": "Wenn nicht angegeben, wird automatisch ein eindeutiger Dateiname generiert."
+        },
+        "af8f0581ed32d346ead494ab8eec1bbb": {
+            "text": "Standardm\u00e4\u00dfig umfasst der Export alle Tabellen. Wenn Sie nur bestimmte Tabellen sichern m\u00f6chten, w\u00e4hlen Sie sie unten aus."
+        },
+        "0fce2bb9b8a71ba5b9861f756f135dc2": {
+            "text": "Bitte haben Sie etwas Geduld, nachdem Sie auf Absenden geklickt haben. Das Sichern kann einige Zeit dauern, je nachdem, wie viel gesichert werden muss."
+        },
+        "aebf39804f9495bc22aee9a057a22419": {
+            "text": "Gespeicherte neue Sicherung:"
+        },
+        "3cc64bdee0e5b15bec9da57fe43ba632": {
+            "text": "Fehler beim Erstellen der ZIP-Datei: %s"
+        },
+        "3cb4e6b4606e9ce037d8e0b857f8997f": {
+            "text": "Aktivieren Sie das Kontrollk\u00e4stchen zur Best\u00e4tigung"
+        },
+        "231701cb14ac09a9cc996fecdd29307f": {
+            "text": "Fehler beim Wiederherstellen: %s"
+        },
+        "c92f05a9eb8a3beefa9703798389e19f": {
+            "text": "Warnung: Die aktuelle Datenbank wird gel\u00f6scht und ersetzt (dies kann Ihre Website besch\u00e4digen!)."
+        },
+        "9a154c4ecbf1f0caefb2a4bdd84015c5": {
+            "text": "Alle Tabellen vor der Wiederherstellung aus der aktuellen Datenbank l\u00f6schen?"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "+"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "+"
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "+"
+        }
+    }
+}

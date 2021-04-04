@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/TextformatterHannaCode\/TextformatterHannaCode.module",
+    "textdomain": "site--modules--textformatterhannacode--textformatterhannacode-module",
+    "translations": {
+        "b2ef53888dfd53de7f71d46b66afc8a2": {
+            "text": "Hanna Code Textformatierung"
+        },
+        "4b41de5ba1d06f22caef21e4afd94158": {
+            "text": "F\u00fcgen Sie ganz einfach komplexe HTML-, Javascript- oder PHP-Ausgaben in Ihre ProcessWire-Inhalte ein, indem Sie Ihre eigenen Hanna-Code-Tags erstellen."
+        },
+        "18a3e00b362322782063036313e8a39e": {
+            "text": "\u00d6ffnender Tag"
+        },
+        "5e2825bb8e1cb0b1d0ad4baf039e9af9": {
+            "text": "Schlie\u00dfender Tag"
+        }
+    }
+}
