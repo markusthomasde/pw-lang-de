@@ -1,0 +1,153 @@
+{
+    "file": "site\/modules\/ProcessPageListerPro\/ListerProConfig.php",
+    "textdomain": "site--modules--processpagelisterpro--listerproconfig-php",
+    "translations": {
+        "6ecdde2ae513a5896e134284685c0e15": {
+            "text": "Neuen Lister hinzuf\u00fcgen"
+        },
+        "26e083c63667cc745be1cc7681ec18cc": {
+            "text": "Dies ist Ihr Standard-Lister, der f\u00fcr allgemeine Seitensuchen verwendet wird. Sie k\u00f6nnen die meisten Einstellungen hier auf den Standardwerten belassen und neue Lister f\u00fcr spezielle Anforderungen erstellen."
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "Filter hinzuf\u00fcgen"
+        },
+        "d1b64eeb3901133b5b345effbefc706b": {
+            "text": "Welche SEITEN soll der Lister anzeigen?"
+        },
+        "5abad1ce26629c7927e6d5d34cee5961": {
+            "text": "Alle Seiten, die von diesem Lister angezeigt werden, befinden sich in den Eigenschaften, die Sie hier ausw\u00e4hlen (der Benutzer kann sie nicht \u00fcberschreiben). Wir empfehlen, hier zumindest eine \"Template\" anzugeben, aber die Verwendung ist optional. Wenn Sie nichts ausw\u00e4hlen, kann der Lister alle Seiten der Seite anzeigen."
+        },
+        "422e37e4ac8a61f8f0859bd6b22094ec": {
+            "text": "Wenn Sie oben eine Template-Auswahl treffen, empfehlen wir, auf \"Speichern\" zu klicken, bevor Sie die Felder unten ausf\u00fcllen. Dadurch wird sichergestellt, dass die Optionen nur auf die zutreffenden reduziert werden."
+        },
+        "e5e216ed3d1241011679f7352ea81fc3": {
+            "text": "Welche FILTER sollen im Lister angezeigt werden?"
+        },
+        "e550394fb7323d90695f6aad0b5ba58a": {
+            "text": "Die Filter, die Sie hier ausw\u00e4hlen, werden sichtbar, wenn ein Benutzer die Liste zum ersten Mal anzeigt. Dies sind nur die Standardfilter, da der Benutzer sie optional hinzuf\u00fcgen, \u00e4ndern oder entfernen kann. Wir empfehlen Ihnen, die Felder auszuw\u00e4hlen, die als Filter verwendet werden sollen, aber die Werte in jeder Zeile leer\/unausgew\u00e4hlt zu lassen (es sei denn, Sie m\u00f6chten einen Standardwert angeben)."
+        },
+        "fffd6e5a26df34527932ce6d7faa8228": {
+            "text": "Optionen und Verhaltensweisen"
+        },
+        "a1a4abdb830d60547733aa99dc729299": {
+            "text": "Benutzer am Entfernen von Standardfiltern hindern"
+        },
+        "90f5ea71362b139e0ff989e75e09c214": {
+            "text": "Benutzer am Hinzuf\u00fcgen neuer Filter hindern"
+        },
+        "4381b207fbb20c0fb3ed392021510498": {
+            "text": "Welche SPALTEN soll die Ergebnistabelle zeigen?"
+        },
+        "79768a779499d45994a0fd7df4779034": {
+            "text": "Zu viele Spalten zur Auswahl? W\u00e4hlen Sie ein oder mehrere \" Template\"-Felder f\u00fcr \"Welche Seiten wird der Lister anzeigen?\" oben aus und klicken Sie dann auf \"Speichern\". Danach werden in diesem Feld nicht mehr alle Spalten, sondern nur noch die zutreffenden Spalten angezeigt."
+        },
+        "054edc8412679b0e04131cd38e504724": {
+            "text": "In welcher Reihenfolge sollen die Seiten erscheinen?"
+        },
+        "2924adee3e42b08fab045d8339306f97": {
+            "text": "Welches Feld soll als Standardsortierung verwendet werden? Wir empfehlen, ein Feld zu w\u00e4hlen, das auch als eine der obigen Standardspalten verwendet wird (wie \"Titel\"). Beachten Sie, dass der Benutzer die Sortierung jederzeit \u00e4ndern kann, indem er auf die Spalten\u00fcberschriften klickt."
+        },
+        "cf3fb1ff52ea1eed3347ac5401ee7f0c": {
+            "text": "Aufsteigend"
+        },
+        "e3cf5ac19407b1a62c6fccaff675a53b": {
+            "text": "Absteigend"
+        },
+        "bb74be3a055674cdf9f8caad352d6d1f": {
+            "text": "Weitere Optionen werden hier sichtbar, nachdem Sie das Feld Standardspalten oben ausgef\u00fcllt und SPEICHERN haben."
+        },
+        "eed06e4c1cc4b8421aface2a3e55b8ae": {
+            "text": "Die hier angezeigten Felder spiegeln die Systemfelder und die im Feld SPALTEN unten ausgew\u00e4hlten Felder wider (Sie m\u00fcssen jedoch SPEICHERN, bevor Sie Ihre Spaltenauswahl hier sehen)."
+        },
+        "87581c67e12eda20e8dc57966225a203": {
+            "text": "**Sortierfelder, die mit einem Sternchen gekennzeichnet sind, k\u00f6nnen die Leistung erheblich steigern**, insbesondere bei gro\u00dfen Ergebnismengen. Wir empfehlen, eines dieser Felder als Standard zu w\u00e4hlen."
+        },
+        "b0a0346957c16bdaac050b0414df32a5": {
+            "text": "M\u00f6chten Sie Feld NAMEN oder LABEL anzeigen?"
+        },
+        "55942d08a6255e6a6bd7514744f004f3": {
+            "text": "Diese Einstellung legt fest, ob Feldnamen oder Beschriftungen in den Auswahlfeldern \"Filter\" und \"Spalten\" angezeigt werden."
+        },
+        "2e53cca369f270f5082625e9facc574e": {
+            "text": "Feldnamen beziehen sich auf den API-Namen, wie er in der Entwicklung verwendet werden w\u00fcrde. Feldbezeichnungen beziehen sich auf den Text, den Benutzer in der Verwaltung sehen, und unterst\u00fctzen auch mehrere Sprachen."
+        },
+        "e62cacb4df1043de57b373c98fd2839e": {
+            "text": "Der Benutzer kann auch auf das eine oder das andere umschalten, indem er das letzte Element in einem beliebigen Auswahleingang ausw\u00e4hlt."
+        },
+        "ef2eef77980dfb726eee7566523a9f55": {
+            "text": "Feldnamen"
+        },
+        "b9f5b9f041084aa285dac87dd3dc1234": {
+            "text": "Feldlabel"
+        },
+        "0a9b2a07f21d71321b5302bef25a1e26": {
+            "text": "Welche Spalten sind direkt im Lister EDITIERBAR?"
+        },
+        "9b65b68549b50cafc25d24af1d52dc67": {
+            "text": "Diese Funktion erm\u00f6glicht das Bearbeiten von Seiten direkt in der ListerPro-Ergebnistabelle."
+        },
+        "13d81f77a0799d7f794f687cba8bbf52": {
+            "text": "M\u00f6chten Sie eine Inline-Seitenbearbeitung direkt in den ListerPro-Ergebnissen erm\u00f6glichen?"
+        },
+        "274e80dfd556ff6bbf75048e3ae950df": {
+            "text": "Ja: Einige Spalten sind editierbar (Sie k\u00f6nnen ausw\u00e4hlen, welche)"
+        },
+        "8a1051e1b85311d97fad491c8c74fca9": {
+            "text": "Ja: Alle Spalten mit unterst\u00fctzten Feldtypen sind editierbar*"
+        },
+        "2107e380381f58518323112cad1a3539": {
+            "text": "Nein: Editieren im Lister deaktiviert"
+        },
+        "76c5afcd9b936c16124e6ff89f3396fd": {
+            "text": "*Feldtypen k\u00f6nnen in den Einstellungen des ListerPro-Moduls konfiguriert werden."
+        },
+        "dba0675971f3a71e50f429ca4d6c3a87": {
+            "text": "W\u00e4hlen Sie aus, welche Spalten im Lister editierbar sein sollen"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "="
+        },
+        "cbd21a6f4f43a16c1ade0de92af63bd3": {
+            "text": "Editoren in Lister-Ergebnissen vorladen?"
+        },
+        "3b079afbdbd82d969307c62a7ac056ce": {
+            "text": "Wenn diese Option aktiviert ist, wird das Markup f\u00fcr Feldeditoren immer in die Lister-Ergebnistabelle aufgenommen (ausgeblendet). Dies f\u00fchrt zu einer schnelleren Bearbeitung durch Klicken, aber zu einer langsameren Generierung der Ergebnistabelle."
+        },
+        "92191dcf8a2222854b873c86df0cc751": {
+            "text": "Wenn diese Option nicht aktiviert ist (Standard), l\u00e4dt ListerPro die Eingaben dynamisch nach Bedarf mit Ajax. Dies f\u00fchrt zu einer schnelleren Generierung der Ergebnistabelle, aber zu einem langsameren Click-to-Edit."
+        },
+        "53cb4116ee94cd7f0834ed7bfcee7b40": {
+            "text": "Wenn diese Lister haupts\u00e4chlich zur Seitenbearbeitung verwendet wird, sollten Sie die Option \"Vorladen\" aktivieren. Andernfalls ist die Gesamtleistung der Lister besser, wenn die Option nicht aktiviert ist."
+        },
+        "424928e30a0199bd48ed4c625ecc9fc3": {
+            "text": "Zu welchen ELTERN sollen neue Seiten hinzugef\u00fcgt werden?"
+        },
+        "396f99c92efaff58d71949ece08bf9b5": {
+            "text": "Diese optionale \u00fcbergeordnete Einstellung bewirkt, dass in Ihrem Lister ein \"Neu hinzuf\u00fcgen\"-Button erscheint. Diese Einstellung teilt dem Lister mit, wo neue Seiten erscheinen sollen."
+        },
+        "a93a7ca1bc5451e020e26cafc9b11bd3": {
+            "text": "Welche AKTIONEN wollen Sie zulassen?"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titel"
+        },
+        "c57061eac85315234bc4571694f99db3": {
+            "text": "Modulname"
+        },
+        "a6ab23055c7069c2c122ef99d3f7ff2b": {
+            "text": "Erforderliche Erlaubnis"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "+"
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Beispiel:"
+        },
+        "d5778a8b84efb3233d070016adb93326": {
+            "text": "+"
+        },
+        "2f2ffa4969a9be39bd1bfae38ce2f506": {
+            "text": "Speichern + Zeigen"
+        }
+    }
+}

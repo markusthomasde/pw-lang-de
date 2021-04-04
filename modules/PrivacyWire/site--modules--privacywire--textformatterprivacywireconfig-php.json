@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/PrivacyWire\/TextformatterPrivacyWireConfig.php",
+    "textdomain": "site--modules--privacywire--textformatterprivacywireconfig-php",
+    "translations": {
+        "18a3e00b362322782063036313e8a39e": {
+            "text": "\u00d6ffnender Tag"
+        },
+        "5e2825bb8e1cb0b1d0ad4baf039e9af9": {
+            "text": "Schlie\u00dfender Tag"
+        }
+    }
+}

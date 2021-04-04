@@ -1,0 +1,93 @@
+{
+    "file": "site\/modules\/ProcessPageListerPro\/ProcessPageListerPro.module",
+    "textdomain": "site--modules--processpagelisterpro--processpagelisterpro-module",
+    "translations": {
+        "d3d2e617335f08df83599665eef8a418": {
+            "text": "Schlie\u00dfen"
+        },
+        "2959ce8aed67d6b6e6f5cefd601f1091": {
+            "text": "In neuem Fenster \u00f6ffnen"
+        },
+        "e940c0fb33ade9b5bce36cafddea120b": {
+            "text": "Es liegen ungesicherte \u00c4nderungen vor. Wenn Sie fortfahren, verlieren Sie diese \u00c4nderungen:"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Eltern"
+        },
+        "4ba80614f8ea4fbfce74f941f641c332": {
+            "text": "Bearbeitungen speichern"
+        },
+        "786e2cc3ea3111434a3c0e0bf246c4ab": {
+            "text": "Lister konfigurieren"
+        },
+        "4833712af97af2a5468d726f2af4e089": {
+            "text": "Erstellter Lister"
+        },
+        "831bb528501c42a590305e56b8a78ad4": {
+            "text": "Geklonter Lister: %1$s => %2$s"
+        },
+        "b9c8c5b26b7187d7c3355b9f96dde50a": {
+            "text": "Gel\u00f6schter Lister bei %s"
+        },
+        "78fe39a5adcaad9681dfbc4c31e26c5a": {
+            "text": "Seite %1$s scheint kein %2$s zu sein"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Unver\u00f6ffentlicht"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Versteckt"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Gesperrt"
+        },
+        "3d07e138ce7cf56984e388545a0c5ddc": {
+            "text": "Erlaubte Feldtypen f\u00fcr die Spaltenbearbeitung in ListerPro"
+        },
+        "4a7b32f1ff3a32ffa65a62cd7ad809bb": {
+            "text": "Lister hinzuf\u00fcgen"
+        },
+        "a6da1c002e5fa9d2baa23551947e2380": {
+            "text": "Geben Sie den Titel f\u00fcr den Lister ein, den Sie erstellen m\u00f6chten. Eine neue Seite, die Ihren Lister enth\u00e4lt, wird in Ihrer Admin-Seiten-Navigation erstellt. Sie k\u00f6nnen die Seite an eine andere Stelle verschieben, wenn Sie dies w\u00fcnschen."
+        },
+        "f952ac6488c3e017829783cf71f610c4": {
+            "text": "Klonen eines Listers"
+        },
+        "7ed5917eb9f9b7d0b4d1a8282113e6c4": {
+            "text": "Um einen Lister zu klonen, w\u00e4hlen Sie hier den Lister aus, den Sie klonen m\u00f6chten, und geben Sie den Titel des neuen Listers in das Feld \"Lister hinzuf\u00fcgen\" oben ein."
+        },
+        "29d1af975e56851d938870f23550a38c": {
+            "text": "Ihre Lister"
+        },
+        "7bfd8e7e6058e308300e55c2f3d85723": {
+            "text": "Lister Titel"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Erstellt"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Aktionen"
+        },
+        "e2d5a00791bce9a01f99bc6fd613a39d": {
+            "text": "konfigurieren"
+        },
+        "0cfbd0aa597bd56a33766a790e478bfb": {
+            "text": "Sind Sie sicher, dass Sie den\/die oben markierten Lister l\u00f6schen m\u00f6chten?"
+        },
+        "41b54c044691928905961289e060b939": {
+            "text": "Markieren Sie dieses Feld zur Best\u00e4tigung:"
+        },
+        "ded6352f2dab8680ed4c9c3b5fce1a13": {
+            "text": "L\u00f6schen wurde nicht best\u00e4tigt"
+        },
+        "9ece991394ba57f1d9a976b80b255fb7": {
+            "text": "Konfiguration"
+        },
+        "aecbf2c278ed6aa0c151f44071af252a": {
+            "text": "="
+        },
+        "97aaf6a4efa90350c9691d39926f681b": {
+            "text": "Leer"
+        }
+    }
+}

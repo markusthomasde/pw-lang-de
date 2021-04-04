@@ -46,6 +46,27 @@
         },
         "89ddfa7528ef5fb0be648053b8a85e74": {
             "text": "Bitte best\u00e4tigen Sie das Sie den Newsletter \"{list}\" nicht mehr erhalten m\u00f6chten."
+        },
+        "00361bf3eee9012357ca47880e5a633a": {
+            "text": "Ung\u00fcltige Anfrage, bitte versuchen Sie es erneut"
+        },
+        "37692eed4fb7d3512db44588500d76ed": {
+            "text": "Eines oder mehrere Pflichtfelder fehlen"
+        },
+        "e0fb75a1e75002241ab4adbf4a281b21": {
+            "text": "Sie haben diesen Newsletter bereits abonniert"
+        },
+        "ae8ce95303fd92cc0111597ce938ad3c": {
+            "text": "E-Mailadresse kann nicht verifiziert werden"
+        },
+        "c6e88d3d3ebdaf322602fcd485d8bd4b": {
+            "text": "Fehler beim Senden der Best\u00e4tigungs-E-Mail"
+        },
+        "e1690f3da7bac40f12816d861e3aa972": {
+            "text": "Fehler beim Hinzuf\u00fcgen zu dieser Mailingliste"
+        },
+        "77f9a43e2c94f3294d7f216942301da2": {
+            "text": "Vielen Dank f\u00fcr Ihr Abonnement, willkommen in der Liste."
         }
     }
 }

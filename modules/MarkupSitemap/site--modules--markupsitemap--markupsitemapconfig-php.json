@@ -1,0 +1,105 @@
+{
+    "file": "site\/modules\/MarkupSitemap\/MarkupSitemapConfig.php",
+    "textdomain": "site--modules--markupsitemap--markupsitemapconfig-php",
+    "translations": {
+        "15f2758d54a9b1e66daff3cd463254e8": {
+            "text": "Sitemap-Cache entfernt"
+        },
+        "3d908fa0bbedbc3152db0e36f5302cee": {
+            "text": "Templates mit Sitemap-Optionen"
+        },
+        "f61ee6f1b5aba1cf37b628a56ef8adb5": {
+            "text": "W\u00e4hlen Sie aus, welche Templates individuelle Sitemap-Optionen haben k\u00f6nnen. Mit diesen Optionen (die auf der Registerkarte \"Einstellungen\" der Seiten angezeigt werden, die zu den ausgew\u00e4hlten Templates geh\u00f6ren) k\u00f6nnen Sie festlegen, welche Seiten und optional deren Kinder von der Sitemap ausgeschlossen werden sollen, wenn sie gerendert wird; definieren, welche Bilder der Seite nicht in die Sitemap aufgenommen werden sollen (vorausgesetzt, dass unten Bildfelder hinzugef\u00fcgt wurden); und schlie\u00dflich k\u00f6nnen Sie eine optionale Priorit\u00e4t f\u00fcr jede Seite festlegen."
+        },
+        "3c5244b44b265e844e4cbc67a79e453c": {
+            "text": "**Entfernen\/Wiederherstellen:** Wenn Sie ein Template aus dieser Liste entfernen, werden die daf\u00fcr geltenden Seitenoptionen nicht gel\u00f6scht. Sie werden jedoch auch nicht gelesen, wenn die Sitemap gerendert wird. Wenn Sie also ein Template in dieser Liste wiederherstellen, nachdem Sie es entfernt haben, werden alle zuvor f\u00fcr eine Seite, die dieses Template verwendet, gespeicherten Optionen beim Rendern der Sitemap verwendet. Die Sitemap-Optionen werden nur dann gel\u00f6scht, wenn entweder die betreffende Seite komplett gel\u00f6scht wird, nachdem sie gel\u00f6scht wurde, oder wenn das Modul deinstalliert wird.\\n\\n**Ein Hinweis zur Startseite: ** Diese Seite kann nicht aus der Sitemap ausgeschlossen werden. Daher sind die entsprechenden Ausschlussoptionen bei der Bearbeitung nicht verf\u00fcgbar."
+        },
+        "5ec1e644914fb4c43a67d18ae198a4a8": {
+            "text": "Templates ohne Sitemap-Zugriff"
+        },
+        "31327f662dcc500ef65dee6855ebbaac": {
+            "text": "W\u00e4hlen Sie aus, welche Seitentemplates keinen Zugriff auf die Sitemap haben sollen."
+        },
+        "c7f02c48c3b6a34ff4c8f2a1ba9e673f": {
+            "text": "**Hinweis:** Das Hinzuf\u00fcgen eines Templates zu dieser Liste setzt die oben definierte Funktionalit\u00e4t auf Template-Ebene au\u00dfer Kraft. Wenn ein Template hier aufgelistet ist, haben seine Seiten keinen Zugriff auf die Sitemap-Funktionalit\u00e4t, einschlie\u00dflich Optionen, und werden nicht in die gerenderte Sitemap aufgenommen. Das Template wird jedoch nicht aus der obigen Optionsliste entfernt, f\u00fcr den Fall, dass Sie es einfach wiederherstellen m\u00f6chten. Es handelt sich also um eine nicht-destruktive Konfigurationsoption."
+        },
+        "2670d9b4f8f5af0eccd2432689c424c4": {
+            "text": "Bildfelder"
+        },
+        "d368ad1d03c02588fbc01e435f43f34d": {
+            "text": "Wenn Sie Bilder in Ihre Sitemap aufnehmen m\u00f6chten (f\u00fcr eine etwas erweiterte Google-Bilder-Unterst\u00fctzung), geben Sie die Bildfelder an, die MarkupSitemap durchlaufen und aufnehmen soll. Die Sitemap enth\u00e4lt Bilder f\u00fcr jede Seite, die das\/die unten ausgew\u00e4hlte(n) Feld(er) verwendet, au\u00dfer f\u00fcr Seiten, die so eingestellt sind, dass ihre Bilder nicht enthalten sind."
+        },
+        "4d2eb1436990a5907cc616e400b3cb1a": {
+            "text": "ISO-Code f\u00fcr Standardsprache"
+        },
+        "4fd217d517c11c66ec9428a6babae6ee": {
+            "text": "Wenn Sie Ihre Homepage \u00fcber LanguageSupportPageNames so eingestellt haben, dass sie keinen Sprach-ISO (Standard-Sprachnamen) enth\u00e4lt **und** der Standard-Sprachname Ihrer Homepage leer ist, dann k\u00f6nnen Sie hier einen ISO-Code f\u00fcr die Standard-Sprache festlegen, der in der Sitemap erscheint. Dadurch wird verhindert, dass die Sitemap `hreflang=\"home\"` f\u00fcr alle Standard-Sprach-URLs enth\u00e4lt."
+        },
+        "877eeb648446c09df9b92c4c3bc18908": {
+            "text": "Beachten Sie, dass diese Option keine Wirkung hat, wenn Ihre Homepage einen Namen f\u00fcr die Standardsprache hat."
+        },
+        "cb93d4c68ea722e18f0bc904776fc83e": {
+            "text": "Beispiel: de"
+        },
+        "6e46e01ca9d18eab19f19b2d2a7393d3": {
+            "text": "Versteckte oder unver\u00f6ffentlichte Seiten einbeziehen"
+        },
+        "6a5cbe86b9ec8410b7665775aacecddd": {
+            "text": "Bei der Suche nach Kindern werden auch solche ber\u00fccksichtigt, die versteckt oder unver\u00f6ffentlicht sind, wenn diese Option aktiviert ist."
+        },
+        "c350bb18c3cdfbd4e5444faa63be6586": {
+            "text": "="
+        },
+        "54fa9cb31423cdd39cab9cd44abce01b": {
+            "text": "Hinzuf\u00fcgen eines Stylesheets zur Sitemap"
+        },
+        "e970a40ef446489be26f9e24c146b3e3": {
+            "text": "Benutzerdefiniertes Stylesheet"
+        },
+        "d958eb0499e1fada6451d84b423aa616": {
+            "text": "Wenn Sie Ihr eigenes Stylesheet verwenden m\u00f6chten, geben Sie hier die absolute URL zu dessen Datei an."
+        },
+        "c52f2112891d2dca87b89b47b5054d8a": {
+            "text": "Beispiel: https:\/\/example.tld\/assets\/sitemap-stylesheet.xsl"
+        },
+        "18de58b1583418ab165d2fb724c86473": {
+            "text": "Das Standard-Stylesheet befindet sich unter **assets\/sitemap-stylesheet.xsl** im Verzeichnis des Moduls. Wenn Sie dieses Feld leer lassen oder Ihre Eingabe keine g\u00fcltige URL ist, wird die Vorgabe verwendet."
+        },
+        "ab0cf104f39708eabd07b8cb67e149ba": {
+            "text": "="
+        },
+        "8058ecb90f90fdec58a5ac1ba358b8f4": {
+            "text": "Methode (Treiber)"
+        },
+        "9b3dc76756ea39f3c05c16d62eb7db8e": {
+            "text": "W\u00e4hlen Sie die Sitemap-Caching-Methode, die Sie verwenden m\u00f6chten."
+        },
+        "c321844db25af36ed88bb3f1994e847b": {
+            "text": "Standard: MarkupCache"
+        },
+        "7de565d9eb96fe141ef7482d77bdb4c7": {
+            "text": "Update-Richtlinie"
+        },
+        "0ecd16b60a9999dbc12f83d57158424e": {
+            "text": "W\u00e4hlen Sie die Update-Richtlinie aus, die Sie verwenden m\u00f6chten."
+        },
+        "100c29c543562ed06e5d092f7036d0f7": {
+            "text": "Standard: Nur Gastbenutzer"
+        },
+        "d3ac40c7d4e52083bffa4c268ea5b84f": {
+            "text": "Cache-Ablauf (TTL)"
+        },
+        "f10eea724e4240cde36c3abbdf6bc347": {
+            "text": "Wie lange soll die Sitemap zwischengespeichert werden (in Sekunden)?"
+        },
+        "dd3a1f4f26dce877e147aea671edbcb7": {
+            "text": "Standard: 3600"
+        },
+        "ec98c55d6d537f87f2e3eb256fe2fe89": {
+            "text": "Sitemap ist stolz darauf, [Open-Source](http:\/\/opensource.com\/resources\/what-open-source) zu sein und ist [frei zur Verwendung](https:\/\/en.wikipedia.org\/wiki\/Free_software) f\u00fcr pers\u00f6nliche und kommerzielle Projekte. Bitte erw\u00e4gen Sie [eine kleine Spende](https:\/\/rockett.pw\/donate) zur Unterst\u00fctzung der Entwicklung von MarkupSitemap und anderen Modulen."
+        },
+        "de07c14bac64abcddd2cfd836133f8b2": {
+            "text": "Unterst\u00fctzung der Entwicklung"
+        }
+    }
+}

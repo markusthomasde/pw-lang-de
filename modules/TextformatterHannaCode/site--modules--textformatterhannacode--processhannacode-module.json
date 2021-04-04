@@ -139,6 +139,33 @@
         },
         "1d62c8c1f49f18fc5f44f4921adc0f6a": {
             "text": "Umbrechen: Umschlie\u00dfen der Auswahl mit Zeichen wie Klammern, wenn ein solches Zeichen eingegeben wird."
+        },
+        "89b5e2913e239ecbf1186a9bb237f37c": {
+            "text": "Importdaten einf\u00fcgen"
+        },
+        "bbc9105ee8508ce6e083a589a351e83a": {
+            "text": "Grundlagen"
+        },
+        "01f3c73e176dedb5b3d28d0fbeba43bb": {
+            "text": "Hinweise zur Verwendung von PHP und Javascript"
+        },
+        "30566895fb8260ffc8ddb12dedfdc5ad": {
+            "text": "Um diesen Hanna-Code zu exportieren und an anderer Stelle zu importieren, kopieren Sie den Inhalt dieses Feldes und f\u00fcgen ihn an anderer Stelle in das Importfeld ein."
+        },
+        "8132a38d8dc45e068357ef47f75c5ce7": {
+            "text": "Wenn Sie oben \u00c4nderungen vorgenommen haben, stellen Sie sicher, dass Sie speichern, bevor Sie die Exportdaten hierher kopieren."
+        },
+        "036d8df4b8ac9689ff3e3d27c88ec4c4": {
+            "text": "Aktivieren Sie das Kontrollk\u00e4stchen und senden Sie das Formular ab, um diesen Hanna-Code dauerhaft zu l\u00f6schen."
+        },
+        "7081f92cf0e96198605b2fdfef16c74b": {
+            "text": "Hanna-Code gel\u00f6scht"
+        },
+        "25c6a71d236d1f6a8423cf2ac2217abc": {
+            "text": "Unzul\u00e4ssiger Attribut-Name:"
+        },
+        "71dd6343f9b739e0181f6f69d36dfc8a": {
+            "text": "Sehen Sie sich die Ace Editor-Demo an, um zu sehen, wie die verschiedenen Themen aussehen."
         }
     }
 }

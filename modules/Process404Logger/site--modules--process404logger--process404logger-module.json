@@ -1,0 +1,42 @@
+{
+    "file": "site\/modules\/Process404Logger\/Process404Logger.module",
+    "textdomain": "site--modules--process404logger--process404logger-module",
+    "translations": {
+        "bef2be5a5e28018a5a1b6f0b0ce61354": {
+            "text": "Protokolliert alle Anfragen, die zum http-Fehler 404 f\u00fchren"
+        },
+        "5e4e58e1c56d1fd9e7b2a9b4f64ddd2f": {
+            "text": "IP-Adresse protokollieren"
+        },
+        "14538da3df47db7cec45f031b71a63f5": {
+            "text": "IP-Adresse in Log-Datei schreiben. Festlegen, welche Oktette unkenntlich gemacht werden sollen (255.255.xxx.xxx)"
+        },
+        "5d1b1611efa352b431a42b7c84e7fd1d": {
+            "text": "die letzten 3 Oktette unkenntlich machen"
+        },
+        "edf155b9305d1ff5b7e770f88e28b4bd": {
+            "text": "die letzten 2 Oktette unkenntlich machen"
+        },
+        "8258038323518c39be43d977ba4d4d1b": {
+            "text": "die letzte Oktette unkenntlich machen"
+        },
+        "d9a22d7a8178d5b42a8750123cbfe5b1": {
+            "text": "Komplett"
+        },
+        "5c93d1fa9b6f3867b1149313951a3058": {
+            "text": "User-Agent protokollieren"
+        },
+        "57305afb1596e9534e856bbe0aa63c03": {
+            "text": "protokolliert User-Agent, wenn $_SERVER['HTTP_USER_AGENT'] gesetzt ist"
+        },
+        "fb9edd6f2c39bb35b4e851906a1caa05": {
+            "text": "Hook Priorit\u00e4t"
+        },
+        "9e5d492f3475f47689058fdc1bed08f1": {
+            "text": "Legen Sie die Priorit\u00e4t f\u00fcr den Hook in ProcessPageView::pageNotFound() fest. Je h\u00f6her der Wert, desto niedriger ist die Priorit\u00e4t. Damit k\u00f6nnen Sie den Protokolleintrag verhindern, wenn andere Module die gleiche Funktion nutzen und z. B. eine Umleitung erzwingen."
+        },
+        "12f76151889a47a804130bccd38655f1": {
+            "text": "Standardpriorit\u00e4t f\u00fcr ProcessWire-Module: 100"
+        }
+    }
+}

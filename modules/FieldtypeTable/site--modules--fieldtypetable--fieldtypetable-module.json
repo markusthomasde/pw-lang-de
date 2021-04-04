@@ -1,0 +1,60 @@
+{
+    "file": "site\/modules\/FieldtypeTable\/FieldtypeTable.module",
+    "textdomain": "site--modules--fieldtypetable--fieldtypetable-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "="
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "="
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "+"
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "+"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "+"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "+"
+        },
+        "64471a6e19542533245bfd1e272fddd0": {
+            "text": "Sie d\u00fcrfen eine Spalte nicht \"%s\" nennen, da dies ein reserviertes Wort ist"
+        },
+        "ac5c16b421c7fca55af2210edf2547be": {
+            "text": "Geben Sie ein PW-Feld an, das CKEditor f\u00fcr die Einstellungen dieser Spalte verwenden soll. Beachten Sie, dass der Inline-Modus immer verwendet wird, unabh\u00e4ngig von den Feldeinstellungen."
+        },
+        "8b97a0d900607c7c5dd0b0a3ad41bd7c": {
+            "text": "Advanced Content Filter (ACF) verwenden? Dringend empfohlen. (1=Ja, 0=Nein)"
+        },
+        "1bae3aa4a9c43d0602361c51c4aed4ab": {
+            "text": "HTML Purifier verwenden? Dringend empfohlen. (1=Ja, 0=Nein)"
+        },
+        "af73ba6c28b839615bf6eaf1faf88d71": {
+            "text": "Seitenfeld(er), das\/die f\u00fcr die ausw\u00e4hlbare Beschriftung verwendet werden soll(en). Beispiele: \" title\", oder \"title|path\" (verwendet das erste nicht-leere Feld), oder \"{title}, {path}\" (verwendet alle angegebenen Felder in Ihrem Format)."
+        },
+        "fb956f7a083d82dc22d53cb48775bb1b": {
+            "text": "Seitenfeld(er), in dem\/denen die Autovervollst\u00e4ndigung suchen soll. Typischerweise w\u00fcrde dies mit dem labelFeld \u00fcbereinstimmen."
+        },
+        "c494d84cfd5440fc16c68dd438537363": {
+            "text": "Geben Sie Textformatter-Module an, die auf diesen Text zur Ausgabeformatierung angewendet werden sollen. Wenn Sie mehrere anwenden m\u00f6chten, trennen Sie diese durch ein Komma. TextformatterEntities wird empfohlen, es sei denn, Sie m\u00fcssen Markierungen zulassen oder bevorzugen andere Textformatter."
+        },
+        "9bc54602186c6b5ba99545c2ecd194eb": {
+            "text": "Platzhaltertext, der angezeigt wird, wenn kein Wert eingetragen ist."
+        },
+        "00d8c97a05907337324a59a28488aab7": {
+            "text": "Welche Art der Datumsauswahl angezeigt werden soll: 0=Keine, 1=Bei Schaltfl\u00e4chenklick anzeigen, 2=Immer sichtbare Inline-Datumsauswahl anzeigen, 3=Datumsauswahl bei Feldfokus anzeigen (empfohlener Wert)."
+        },
+        "23c75d86e1722469fb9ca1f910cfbd31": {
+            "text": "="
+        },
+        "8da450061999e83ca7476660349dbaa2": {
+            "text": "Feld, mit dem Sie eine Datenbanktabelle mit benutzerdefinierten Feldern definieren k\u00f6nnen."
+        },
+        "52b1605eff065e9e0adbae5c02b42278": {
+            "text": "Die Datenbankschema\u00e4nderungen wurden \u00fcbertragen."
+        }
+    }
+}

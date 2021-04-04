@@ -1,0 +1,183 @@
+{
+    "file": "site\/modules\/ProMailer\/ProcessProMailerMessage.php",
+    "textdomain": "site--modules--promailer--processpromailermessage-php",
+    "translations": {
+        "5eecef40d5888cf49880c6baca7984d8": {
+            "text": "Newsletter: %s"
+        },
+        "65569f2c1fe9db91c7f98bfb3fe8798e": {
+            "text": "Neuen Newsletter hinzuf\u00fcgen"
+        },
+        "45b5ef208fa397ac9cad27bcd79084bc": {
+            "text": "Gespeicherter Newsletter: %s"
+        },
+        "6e51ca3efb50c3fa4e7eb7fb75cba556": {
+            "text": "Newsletterinhalt"
+        },
+        "c7892ebbb139886662c6f2fc8c450710": {
+            "text": "Betreff"
+        },
+        "8081cb591a11572151ad9d48862f147a": {
+            "text": "Inhalt"
+        },
+        "898e97fccf938fab4c41ec4df6926fad": {
+            "text": "Inhalt den Sie hier angeben"
+        },
+        "89430a15854754ac864b93bec779e46d": {
+            "text": "URL die den Inhalt ausgibt"
+        },
+        "5ab8f7b17de69200ea1ab5198737a96c": {
+            "text": "Seite die den Inhalt ausgibt"
+        },
+        "3767ad5d682375be5c72ce120afeea24": {
+            "text": "Inhaltstyp"
+        },
+        "2833c26e65ba317d856f44386ff6fc00": {
+            "text": "HTML"
+        },
+        "f36ebd554df27bd2987887648dd067bc": {
+            "text": "Separate HTML- und Text-Version"
+        },
+        "3401511a40dd1447a1fbe43af3b929a2": {
+            "text": "Nur Text"
+        },
+        "a7934924b50b285fe339b403fd1dace6": {
+            "text": "HTML einkopieren"
+        },
+        "c99291c1c46a320a850f60759e668e6c": {
+            "text": "Text einkopieren"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Anzeigen"
+        },
+        "0d6633f2cb401376d019f34c515398c0": {
+            "text": "Details"
+        },
+        "3b4d5020b407b2eae50b456767d206b3": {
+            "text": "Von: E-Mail"
+        },
+        "c3a7ea0c38bac179a545dbfaf4ebb013": {
+            "text": "Von: Name"
+        },
+        "8373f5a1cbdf4ebaf0eccb33300cf128": {
+            "text": "Antwort E-Mailadresse"
+        },
+        "457726614fa00fce53000e8e59eae6b1": {
+            "text": "Senden an Empf\u00e4ngerliste"
+        },
+        "ee09e6f424e1d13f061dff1ead986e25": {
+            "text": "Bitte den Verteiler ausw\u00e4hlen an den der Newsletter versendet werden soll."
+        },
+        "267b519d794df426a8ba7d79d6d5a94c": {
+            "text": "Tipp: Senden Sie eine Test-E-Mail an eine interne Verteilerliste vor dem endg\u00fcltigen Versand."
+        },
+        "967a9a968b891b748d8d9621ab1c4664": {
+            "text": "Wartezeit"
+        },
+        "7d221192e7dd91e6798c64c0aec75ef4": {
+            "text": "Wartezeit in Sekunden zwischen den Durchg\u00e4ngen."
+        },
+        "6078361afffdf303e68fea0274677c3b": {
+            "text": "E-Mailfrequenz"
+        },
+        "ab340002a9534af9722c4237baf55081": {
+            "text": "E-Mails pro Durchgang"
+        },
+        "80fae81be124d6817fce6449995395b0": {
+            "text": "Sendemethode"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(empfohlen)"
+        },
+        "d58d95166261e562e39d0b8372e28604": {
+            "text": "Sendemethode"
+        },
+        "7d76b3cc100608aec5604295ae3499e8": {
+            "text": "Live"
+        },
+        "f5de08abd5a7c00b3df5e1bf7379a4d6": {
+            "text": "Im Hintergrund"
+        },
+        "cb2e917d93f65adfdd4d6c50edcfd39d": {
+            "text": "Senden fortsetzen"
+        },
+        "3ccb62563be9c5b182d25648de82d66f": {
+            "text": "Senden starten"
+        },
+        "8f55d59cfca0653c8efb796de8a2ae47": {
+            "text": "Die Betreffzeile der E-Mail, die im Posteingang des Benutzers erscheint. Die Verwendung von benutzerdefinierten Feldplatzhaltern wird ebenfalls unterst\u00fctzt."
+        },
+        "89d740e53ed4f63829cace9a6cb86774": {
+            "text": "Geben Sie die vollst\u00e4ndige http\/https-URL ein, die den Nachrichtentext in HTML ausgibt"
+        },
+        "fcea851fada68129248a2354fa442bc8": {
+            "text": "Geben Sie die vollst\u00e4ndige http\/https-URL ein, die den Nachrichtentext in PLAIN TEXT ausgibt"
+        },
+        "0756ffe47acea4759f2ceb3100cdf165": {
+            "text": "W\u00e4hlen Sie die Seite, die den E-Mail-Text darstellt"
+        },
+        "80e05a6eab38a9a711fecb33f755a777": {
+            "text": "Dies sollte eine Seite sein, die eine f\u00fcr die E-Mail-Ausgabe vorbereitetes Template verwendet und den Inhalt hat, den Sie versenden m\u00f6chten."
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "+"
+        },
+        "742cb5e4054bbddc375b99c2a5b65e89": {
+            "text": "Die folgenden Platzhalter werden automatisch in Ihrem Nachrichtentext oder Betreff f\u00fcr jeden E-Mail-Empf\u00e4nger ersetzt."
+        },
+        "866238c3f4d2244a848880ad3d8126d5": {
+            "text": "Die E-Mail-Adresse, von der die Nachricht kommt."
+        },
+        "9df0656a935d3ef5b0dd717489bc2aa4": {
+            "text": "Name der Person oder Firma."
+        },
+        "3b140e7b31d1d98851af454e2137e716": {
+            "text": "Falls abweichend von \"Von E-Mail\"."
+        },
+        "a57284bea48093ceb857fe0dd6ac0dab": {
+            "text": "In den Einstellungen des ProMailer-Moduls wurde die Versandart auf die unten gezeigte beschr\u00e4nkt."
+        },
+        "26396be8741c545355792ec88c55db3d": {
+            "text": "F\u00fcr weitere Versandoptionen k\u00f6nnen Sie WireMail-Module installieren."
+        },
+        "12eb199145d147dd5bd70018533e9176": {
+            "text": "Beobachten Sie das Live-Senden \u00fcber Ihren Browser oder lassen Sie es im Hintergrund senden."
+        },
+        "0a002427112de433f7d718ee55be1750": {
+            "text": "Alle auf einmal (nur empfohlen, wenn Ihr Mailer dies empfiehlt)"
+        },
+        "8ae21b140ec7ba0bebd77b52824d03b9": {
+            "text": "Start mit Abonnent"
+        },
+        "18590de3e450e56d9fdfb9837169d5e8": {
+            "text": "Dies ist die ID oder E-Mail-Adresse des n\u00e4chsten Abonnenten, der diese Nachricht erhalten soll."
+        },
+        "1d4b98f42b35a0d35a2e6ae01eca64f3": {
+            "text": "Die Listen werden in der Reihenfolge der Teilnehmer-ID (niedrigste bis h\u00f6chste) gesendet."
+        },
+        "1f3faf087aa58a669e3029725e089b24": {
+            "text": "Sie k\u00f6nnen dies optional anpassen, um die Position des Sendens zu \u00e4ndern, oder als 0 (oder leer) einstellen, um vom Anfang der Liste zu beginnen."
+        },
+        "add0bf0fbe7afcf9b5b29143a07f0226": {
+            "text": "Teilnehmer-ID %d ist %s"
+        },
+        "019e98ef235f66dff42e762043e59ae0": {
+            "text": "Sendereihenfolge"
+        },
+        "5635b0bf27b3c7effcc46074d2d236e6": {
+            "text": "\u00c4lteste Abonnenten zuerst"
+        },
+        "c677cf2a51cde2dd90126e0118d8d567": {
+            "text": "Neueste Abonnenten zuerst"
+        },
+        "87c4f8c4112a0c59213702cb292b3d68": {
+            "text": "Nachrichtentitel (f\u00fcr Adminbereich)"
+        },
+        "d0d8f7ff1f51cd9929303491c3e66201": {
+            "text": "Dies wird nur zur Identifizierung der Nachricht hier im Adminbereich verwendet."
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "+"
+        }
+    }
+}

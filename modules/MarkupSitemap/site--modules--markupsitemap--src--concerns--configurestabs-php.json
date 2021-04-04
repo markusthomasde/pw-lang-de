@@ -1,0 +1,42 @@
+{
+    "file": "site\/modules\/MarkupSitemap\/src\/Concerns\/ConfiguresTabs.php",
+    "textdomain": "site--modules--markupsitemap--src--concerns--configurestabs-php",
+    "translations": {
+        "996175057eb5ac180dcb6436c62f8d31": {
+            "text": "Seiten Priorit\u00e4t"
+        },
+        "5af5b8cf93c1df3043065d0a583493b6": {
+            "text": "Legen Sie die Priorit\u00e4t dieser Seite auf einer Skala von 0.0 bis 1.0 fest."
+        },
+        "86ecaa290b31052ee204fb79ead600c8": {
+            "text": "Dieses Feld ist optional, und die Priorit\u00e4t wird nur ber\u00fccksichtigt, wenn sie hier eingestellt ist."
+        },
+        "8544d62cf04cc5eee1b206287667eefa": {
+            "text": "Bilder ausschlie\u00dfen"
+        },
+        "36e3f7160670722b66857f654cf99db0": {
+            "text": "Keine Bilder in die Sitemap f\u00fcr den Eintrag dieser Seite aufnehmen"
+        },
+        "117d82929a4c5230d7dfc66acbd6fd7b": {
+            "text": "Standardm\u00e4\u00dfig werden alle Bildfelder f\u00fcr diese Seite in die Sitemap aufgenommen. Wenn Sie dies nicht w\u00fcnschen, k\u00f6nnen Sie eine solche Aufnahme f\u00fcr diese Seite ausschlie\u00dfen, indem Sie das Kontrollk\u00e4stchen unten aktivieren."
+        },
+        "ad8e9eb362dd417352db71668fc91f0b": {
+            "text": "Seite ausschlie\u00dfen"
+        },
+        "f7f5fb232faaa74e65bd905395e6c8a8": {
+            "text": "Diese Seite nicht in die Sitemap aufnehmen"
+        },
+        "8e9396b72ae23a225dc94d7ea909c97a": {
+            "text": "Wenn Sie die Aufnahme dieser Seite (ohne Ber\u00fccksichtigung ihrer Kinder, falls vorhanden) aus der Sitemap \u00fcberspringen m\u00f6chten, k\u00f6nnen Sie das K\u00e4stchen unten aktivieren."
+        },
+        "8c37eeaca7e3ddcb6068b287bc22271b": {
+            "text": "Untergeordnete Seiten ausschlie\u00dfen"
+        },
+        "682c053c9697899e3cf3327de1522538": {
+            "text": "Die untergeordneten Seiten dieser Seite (falls vorhanden) nicht in sitemap.xml aufnehmen"
+        },
+        "4cc997ac7c0318ad14fb2a07b5d57e38": {
+            "text": "Wenn Sie die Aufnahme der Unterseiten dieser Seite (falls vorhanden, ohne Ber\u00fccksichtigung der Seite selbst) aus der Sitemap \u00fcberspringen m\u00f6chten, k\u00f6nnen Sie das Kontrollk\u00e4stchen unten aktivieren."
+        }
+    }
+}

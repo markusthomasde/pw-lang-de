@@ -1,0 +1,228 @@
+{
+    "file": "site\/modules\/PrivacyWire\/PrivacyWireConfig.php",
+    "textdomain": "site--modules--privacywire--privacywireconfig-php",
+    "translations": {
+        "5bd00e474b7ae27b8fa2e5cb77bb66f8": {
+            "text": "Erforderlich"
+        },
+        "dd339507f8d1fd6487e492cec7398942": {
+            "text": "Funktionell"
+        },
+        "c33e404a441c6ba9648f88af3c68a1ca": {
+            "text": "Statistik"
+        },
+        "6f0118c8359be9d79241f1fe64e67143": {
+            "text": "Externe Medien"
+        },
+        "aead4ef624ca193b1b79cac03f2e9605": {
+            "text": "Diese Website verwendet Cookies, um ein gutes Surferlebnis zu gew\u00e4hrleisten"
+        },
+        "44cd5780bdae936756034b5e48177866": {
+            "text": "Dazu geh\u00f6ren essentielle Cookies, die f\u00fcr den Betrieb der Seite notwendig sind, sowie andere, die nur f\u00fcr anonyme statistische Zwecke, f\u00fcr Komfort-Einstellungen oder zur Anzeige personalisierter Inhalte verwendet werden. Sie k\u00f6nnen selbst entscheiden, welche Kategorien Sie zulassen m\u00f6chten. Bitte beachten Sie, dass aufgrund Ihrer Einstellungen m\u00f6glicherweise nicht alle Funktionen der Website verf\u00fcgbar sind."
+        },
+        "fa2ead697d9998cbc65c81384e6533d5": {
+            "text": "Datenschutzerkl\u00e4rung"
+        },
+        "e206d098296c1966e2d01130f9195744": {
+            "text": "Impressum"
+        },
+        "3d0238bf1643e39636b1f5040af3bf6f": {
+            "text": "Alle akzeptieren"
+        },
+        "e8897b29ca5a9146e6e58b9131adf7f1": {
+            "text": "Nur notwendige Cookies akzeptieren"
+        },
+        "d542062e998ab748bd728f68ae663dbd": {
+            "text": "Cookies ausw\u00e4hlen"
+        },
+        "b089ea54768077a7101b1667d141be6e": {
+            "text": "Einstellungen speichern"
+        },
+        "56f1ad01cf5988f3459018ff9c43ca95": {
+            "text": "Optionen umschalten"
+        },
+        "8ad241c3ada39ddae77c3a23dd5ebb3d": {
+            "text": "Ihre Cookie-Einstellungen wurden gespeichert."
+        },
+        "10e4f82918bf035d2be5d375e5034343": {
+            "text": "Meine Cookie-Zustimmung anzeigen oder bearbeiten"
+        },
+        "917851ddf547f2edd804e0248e6019e0": {
+            "text": "Um dieses Element zu laden, ist es erforderlich, der folgenden Cookie-Kategorie zuzustimmen: {category}."
+        },
+        "2ca7ff47a7a8043440455757ad28cad5": {
+            "text": "{category} Cookies laden"
+        },
+        "7bb6d6d259607ec23baf5db135e6dc19": {
+            "text": "Wenn Sie die Versionsnummer erh\u00f6hen, m\u00fcssen alle Benutzer erneut zustimmen. Die Versionsnummer wird mit der Zustimmung der Benutzer im Cookie gespeichert."
+        },
+        "60d300af4ea9f7834a2d73b27f79ee2a": {
+            "text": "Versionsnummer"
+        },
+        "1f7308938b38403e717d83c5bd7f9278": {
+            "text": "W\u00e4hlen Sie, welche Gruppen von Cookies der Benutzer w\u00e4hlen darf. Wenn mehr als die beiden Standardgruppen (alle & notwendig) erlaubt sind, wird dem Benutzer das Optionsfenster angezeigt."
+        },
+        "794308fdbdba2bee6913b55ed2948184": {
+            "text": "Cookie-Gruppen"
+        },
+        "8eb888e2aa7689cbf40117b5ec4b8d9a": {
+            "text": "Erforderliche Cookies"
+        },
+        "1d29bdb8fd213725441496f07fe549f3": {
+            "text": "Funktionale Cookies"
+        },
+        "6f7f480be31566354853203eb0d6be45": {
+            "text": "Alle Cookies"
+        },
+        "8fa47015fd7c03b0ff869286b9aade60": {
+            "text": "Wenn aktiviert, pr\u00fcft PrivacyWire, ob der Browser des Benutzers den DNT-Header sendet. Wenn dies der Fall ist, wird kein Cookie-Banner angezeigt und der Benutzer wird so behandelt, als ob 'Nur notwendige Cookies' gew\u00e4hlt w\u00fcrde."
+        },
+        "0401dc676c7e2cb2c15d38c8f3d4ddbf": {
+            "text": "="
+        },
+        "bc09e4444a34da7d13b78830e037f093": {
+            "text": "Respektieren Sie die \"Do Not Track\"-Einstellungen des Browsers"
+        },
+        "46d877ff4d331598b3d17b029ba4addb": {
+            "text": "Cookie-Gruppen-Labels"
+        },
+        "1c862c49be953d666658b0a40d83c15d": {
+            "text": "Label der Cookie-Gruppen im Fenster 'Cookies w\u00e4hlen'"
+        },
+        "814602e651c0f5e80be2b2969a1afb5c": {
+            "text": "Erforderliche Cookies: Label"
+        },
+        "7930269f18b410aa52943ed0b3751583": {
+            "text": "Funktionale Cookies: Label"
+        },
+        "31b3adb1ab1811cf4c205bdea9ce26c5": {
+            "text": "Statistik-Cookies: Label"
+        },
+        "f0fab3265bedfb40f780623fe2b127ed": {
+            "text": "Marketing-Cookies: Label"
+        },
+        "05dc11655188450300c22b6a29c5bf76": {
+            "text": "Externe Medien-Cookies: Label"
+        },
+        "f7a1db9e1b7d857931074a1abad16313": {
+            "text": "Banner Inhalt"
+        },
+        "e44eece956efb6ac347dc7d38fd98f0e": {
+            "text": "Optional: Wenn leer, wird keine \u00dcberschrift im Banner angezeigt."
+        },
+        "c105a5538095743d179c980e44a66da1": {
+            "text": "Banner Titel"
+        },
+        "850715f28b538cbd05354e8eeccdb4db": {
+            "text": "="
+        },
+        "cc217c7cb1fa686af670985444e74fae": {
+            "text": "Wenn Sie einen Link zu Ihrer Datenschutzseite ausgeben m\u00f6chten, f\u00fcgen Sie die URL zu dieser Seite hier ein"
+        },
+        "9ff73c5171a5b36a486bad9016637562": {
+            "text": "URL f\u00fcr Datenschutzrichtlinie"
+        },
+        "d7ca597e607fa74f3a5033d407a40de7": {
+            "text": "Datenschutzrichtlinie Link-Titel"
+        },
+        "1c705930cf7a79f8bfc486a92e56e0af": {
+            "text": "Wenn Sie einen Link zu Ihrer Impressumsseite ausgeben m\u00f6chten, f\u00fcgen Sie die URL dieser Seite hier ein"
+        },
+        "5cca5cc93b9452c29fbbb685d8f8c782": {
+            "text": "Impressum URL"
+        },
+        "3faf4d06ff20dbd8d1f1bcb51ffd8cb6": {
+            "text": "Impressum Link-Titel"
+        },
+        "eefb10d3e49869b4eeadd6afdb5e2798": {
+            "text": "Button Label: Alle Cookies zulassen"
+        },
+        "47dac78861a451732b2e2a93e4b85daf": {
+            "text": "Button Label:  Erforderliche Cookies zulassen"
+        },
+        "0ec1e61399d09e7b74d1ec0db8528456": {
+            "text": "Button Label: Cookies ausw\u00e4hlen"
+        },
+        "d3771ff377dac4ebd1e1ccdc6795caba": {
+            "text": "Button Label: Cookie-Optionen ein- und ausschalten"
+        },
+        "244e4e034c34742a10ab1c0891c924d7": {
+            "text": "Button Label: Einstellungen speichern"
+        },
+        "1c418698545dc01ffac88cd1e9ce5228": {
+            "text": "Fenster ausw\u00e4hlen: Button \"Alle \u00fcbernehmen\" anzeigen statt Button \"Umschalten\""
+        },
+        "22c0e546c49bf08a16407392fb2080cc": {
+            "text": "Button \"Alle \u00fcbernehmen\" statt Button \"Umschalten\" anzeigen"
+        },
+        "eb7f929fae900d3f139398b2403823cd": {
+            "text": "="
+        },
+        "6df64f9f7b28d131d5325271e9c893e0": {
+            "text": "Modifikationen"
+        },
+        "b8b0a154e195a444c5c9f99bdf61a65b": {
+            "text": "Wenn aktiviert, pr\u00fcft PrivacyWire, ob [ProCache](https:\/\/processwire.com\/store\/pro-cache\/#procache-css-js-minification-api) installiert und aktiviert ist. Wenn ja, werden die Javascript-Dateien automatisch \u00fcber ProCache verkleinert."
+        },
+        "5acd3325add0d34d64c4059f4a5f0190": {
+            "text": "Verwenden Sie ProCache JS Minify (falls verf\u00fcgbar)"
+        },
+        "d6b154366878f579079f70847f84998a": {
+            "text": "Wenn diese Option aktiviert ist, f\u00fcgt PrivacyWire automatisch einige sehr einfache CSS-Stile in die Ausgabe ein."
+        },
+        "d789d5edfa8005a7e7d8f1504c67a130": {
+            "text": "CSS: Basis-CSS-Style hinzuf\u00fcgen"
+        },
+        "6614e5f319aedc018937ce7a63ece6b6": {
+            "text": "Basis-CSS-Style hinzuf\u00fcgen"
+        },
+        "5a268a110e0e5ce1f263a5719e18adf3": {
+            "text": "Ausl\u00f6sen einer benutzerdefinierten JavaScript-Funktion"
+        },
+        "aa5326746df09041f2a369765bfdd81b": {
+            "text": "Wenn Sie nach dem Speichern des Cookie-Banners eine benutzerdefinierte JavaScript-Funktion ausl\u00f6sen m\u00f6chten, f\u00fcgen Sie hier den Namen der Funktion ein"
+        },
+        "d3115b917d2f95400808fae1afec2f0d": {
+            "text": "Anzeige der Erfolgsmeldung"
+        },
+        "6558d74198346bb85e5859e44e4d4d21": {
+            "text": "Zeit in ms, wie lange die Erfolgsmeldung sichtbar sein soll"
+        },
+        "891dba8a13f8696c0b6e5ed6156e6227": {
+            "text": "W\u00e4hlen Sie zwischen <header> und <div>."
+        },
+        "6ad3c3df35d1b529f786458644d676df": {
+            "text": "="
+        },
+        "cea964ac6a233b51fe5a28f7f4a40895": {
+            "text": "="
+        },
+        "32125540a649ecc646413c37c588775d": {
+            "text": "="
+        },
+        "11b227e79b2843a36d03528b88ac7757": {
+            "text": "Alternatives Banner Template"
+        },
+        "865ad4c2ef7145c299c3dd6d99bffa9f": {
+            "text": "Wenn Sie das urspr\u00fcngliche Banner-Template (zu finden in site\/modules\/PrivacyWire\/PrivacyWireBanner.php ) ersetzen m\u00f6chten, f\u00fcgen Sie hier den alternativen Dateipfad ein (beginnend mit webroot ohne f\u00fchrenden Schr\u00e4gstrich)"
+        },
+        "d4997ff62bfaad9983d51a8950f51434": {
+            "text": "Textformatter Button-Beschriftung"
+        },
+        "d784cc9703b1f8fc5fdf2119f77600e5": {
+            "text": "Information, dass Einstellungen gespeichert wurden"
+        },
+        "a9fbdc8dee238cf633549b96d30c780f": {
+            "text": "Um Zustimmung bitten"
+        },
+        "b1b276fa6c1cf5ce53baf94c753c75a1": {
+            "text": "Text \u00fcber dem Button"
+        },
+        "8b9577d4601be5bdebcc70ad48873c5d": {
+            "text": "Sie k\u00f6nnen den Namen der aktuellen Cookie-Kategorie einf\u00fcgen, indem Sie den Platzhalter {category} verwenden."
+        },
+        "7cb15e416d62919b1b40298324fbe30b": {
+            "text": "="
+        }
+    }
+}

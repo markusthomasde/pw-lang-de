@@ -1,0 +1,186 @@
+{
+    "file": "site\/modules\/FieldtypeVerifiedURL\/FieldtypeVerifiedURL.module",
+    "textdomain": "site--modules--fieldtypeverifiedurl--fieldtypeverifiedurl-module",
+    "translations": {
+        "24a23d787190f2c4812ff9ab11847a72": {
+            "text": "="
+        },
+        "51ec9bf4aaeab1b25bb57f9f8d4de557": {
+            "text": "Titel:"
+        },
+        "1365918781b4077ddefef1900b1ffc9c": {
+            "text": "Noch nicht verifiziert"
+        },
+        "e0aa021e21dddbd6d8cecec71e9cf564": {
+            "text": "+"
+        },
+        "5d695cc28c6a7ea955162fbdd0ae42b9": {
+            "text": "Gefunden"
+        },
+        "902b0d55fddef6f8d651fe1035b7d4bd": {
+            "text": "+"
+        },
+        "3f68e67dc6c397aaa9d1c24c356f754f": {
+            "text": "Verifiziert"
+        },
+        "bfc8d17e0a381b8b06dd82a97d8fd8e2": {
+            "text": "%d Versuch"
+        },
+        "d8b0ce5fed9ff0c5e1f381a4c0b2a386": {
+            "text": "%d Versuche"
+        },
+        "d4d79f4ea1a75425f8eadd29df1bf93e": {
+            "text": "Zeige Webseite"
+        },
+        "82399741391751ddddc204af483a1113": {
+            "text": "Webseite beim speichern erneut verifizieren"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Niemals"
+        },
+        "e1c9130c3165e90e43562666b2e6a44c": {
+            "text": "="
+        },
+        "f74a29ed21e24caf0f08b4886f6614bf": {
+            "text": "Dauerhaft umgezogen"
+        },
+        "fceabf4260e9d7cba1e738690debbba9": {
+            "text": "URL kann nicht geladen werden"
+        },
+        "e51baa54e220837839675bcadfd04fcd": {
+            "text": "Host kann nicht aufgel\u00f6st werden"
+        },
+        "edf57d0746f0134dfe88d2294b07eff8": {
+            "text": "Maximale Fehler erreicht"
+        },
+        "09584c4434c6ac95e13d93b0d140cda5": {
+            "text": "Geben Sie die Anzahl der Tage ein, oder 0, um nie eine erneute \u00dcberpr\u00fcfung nach dem ersten Mal durchzuf\u00fchren."
+        },
+        "25830614b747186c0bd12ac47e068eef": {
+            "text": "Erfolgs-URLs nach wie vielen Tagen erneut \u00fcberpr\u00fcfen?"
+        },
+        "7b89bd1e89740ba740347d1cfd114f57": {
+            "text": "Fehler-URLs nach wie vielen Tagen erneut pr\u00fcfen?"
+        },
+        "701132dd50416b96fe9703c7da737759": {
+            "text": "Maximale Versuche, Fehler-URLs erneut zu \u00fcberpr\u00fcfen"
+        },
+        "255868d9851e6d91d2be1505635eadd8": {
+            "text": "Die Anzahl der Versuche, die Sie sp\u00e4ter wiederholen m\u00f6chten, falls die URL wieder online ist."
+        },
+        "7b6d23ed7d8c11c0375fc9b0e6acbe4d": {
+            "text": "Nach maximalen Versuchen hat die URL den Status von: %s"
+        },
+        "40b36c9fb5c1bb041f3caddc3194e7af": {
+            "text": "Maximal erlaubte Sekunden f\u00fcr die \u00dcberpr\u00fcfung von URLs in 1 Anfrage"
+        },
+        "ab52e4d9c36aa2ad6b217100aab40791": {
+            "text": "Verhindert, dass die \u00dcberpr\u00fcfung zu viele Ressourcen in einer einzigen Anfrage belegt."
+        },
+        "bdb05b58622b8a780b4fe253d81dae67": {
+            "text": "Bei niedrigeren Zahlen wird die \u00dcberpr\u00fcfung auf mehr Anfragen verteilt."
+        },
+        "5f4f9f7369ffba13f64f36060d29fcd4": {
+            "text": "URL-Pr\u00fcfungen und Fehler protokollieren?"
+        },
+        "21ed8085086e55809234fe7292ade222": {
+            "text": "Wenn dieses Kontrollk\u00e4stchen aktiviert ist, wird die URL-Verifizierungsaktivit\u00e4t protokolliert in: %s"
+        },
+        "9b76566e5759abca242aa9c14cd584d5": {
+            "text": "Inhalte von Title-Tags bei verifizierten URLs ziehen?"
+        },
+        "778901a73516b938bbd5b43052d4cae1": {
+            "text": "Wenn dieses Kontrollk\u00e4stchen aktiviert ist, wird der Text des URL <title>-Tags \u00fcber $page->%s->title zug\u00e4nglich sein"
+        },
+        "61e1f480b018421f65314ce6f3a29ed0": {
+            "text": "Inhalt des gesamten HTML-Dokuments der URL ziehen?"
+        },
+        "448ce333e2aedbb398d8d8cb300635ed": {
+            "text": "Geben Sie die Anzahl der Bytes ein, die vom Anfang des HTML-Dokuments gezogen werden sollen. Dieses HTML wird \u00fcber den String `$page->%s->html` zug\u00e4nglich sein"
+        },
+        "c927a799be8d7e6d852900e746b1fb9f": {
+            "text": "Spezifische Antwort-Header ziehen?"
+        },
+        "e399852ed59d787f5e823cddc2e805b8": {
+            "text": "Geben Sie die Namen von einem oder mehreren Antwort-Headern ein, die Sie abrufen und speichern m\u00f6chten, und trennen Sie sie jeweils mit einem Leerzeichen. Oder geben Sie nur ein Sternchen \"*\" an, um ALLE Kopfzeilen zu erhalten."
+        },
+        "748ea5b4917b99cc1d3c34e092eef94d": {
+            "text": "Antwort-Header werden \u00fcber das Array $page->%s->headers zug\u00e4nglich sein"
+        },
+        "37f5f5fabd43651aff99966ca60c9073": {
+            "text": "Regul\u00e4ren Ausdruck im Site-Markup abgleichen"
+        },
+        "eda1fa580beaf1082aefeb93094fae2c": {
+            "text": "Geben Sie einen vollst\u00e4ndigen regul\u00e4ren PCRE-Ausdruck ein, der im Site-Markup \u00fcbereinstimmen soll. Beispiel: \/(Dies|Das|Andere)\/i"
+        },
+        "e80955d7d9f966deeb8698bff77f93dd": {
+            "text": "Das Ergebnis wird \u00fcber das Array $page->%s->matches zug\u00e4nglich sein"
+        },
+        "a529bcb721c0ea2c54f9ef28e2902e10": {
+            "text": "URLs f\u00fcr \"301 permanente\" und \"302 tempor\u00e4re\" Weiterleitungen merken?"
+        },
+        "81a1e3311f03bb3d3da11550a9dd4a49": {
+            "text": "Wenn aktiviert, wird die Umleitungs-URL in $page->%s->redirect gespeichert"
+        },
+        "cee6cbeb4714c3b2e4d1d715182dd9fd": {
+            "text": "Mit dieser Option werden Redakteure auch benachrichtigt, wenn die eingegebene URL auf eine andere umgeleitet wird."
+        },
+        "4ae7ef87f4a2bf7b5c32e53c58a493f3": {
+            "text": "URL automatisch aktualisieren, wenn \"301 permanent\"-Weiterleitung zum gleichen Hostnamen aufl\u00f6st?"
+        },
+        "ee02e7a084d8ab0196bf0fb3d7da2648": {
+            "text": "So k\u00f6nnen Sie URLs, die wahrscheinlich nicht manuell \u00fcberpr\u00fcft werden m\u00fcssen, automatisch aktualisieren."
+        },
+        "57fc8b47dc9c21f91dbdc3fd1692a7cf": {
+            "text": "Hilfreich, um bei \u00c4nderungen wie http zu https, Anforderungen an den abschlie\u00dfenden Schr\u00e4gstrich, ge\u00e4nderte URLs usw. auf dem Laufenden zu bleiben."
+        },
+        "b063bcd709afae94b7255628e890cced": {
+            "text": "Umleitungen, die zu einer \u00c4nderung des Hostnamens f\u00fchren, werden zur Sicherheit ausgeschlossen."
+        },
+        "76cfa9cd6d6d9c2c2439b3ebd4688e10": {
+            "text": "Typ des formatierten Wertes"
+        },
+        "3b4720fcad7ffd3855d7c1d816e1e4df": {
+            "text": "Objektinstanz mit den Eigenschaften \"url\", \"status\", \"title\", \"redirect\", \"html\", \"headers\" und \"matches\". String-Wert ist immer \"url\"."
+        },
+        "cf699aa7d43ad4ad287742d781399499": {
+            "text": "Regul\u00e4re Zeichenkette, die nur die URL enth\u00e4lt"
+        },
+        "ca30767b03fd787bb3d94ff94ff8f4dd": {
+            "text": "Unabh\u00e4ngig davon, welche Option Sie w\u00e4hlen, wird der Zugriff auf den Wert als String immer in die URL aufgel\u00f6st."
+        },
+        "d1aff68d06b2b7c0af1dab5801422d0b": {
+            "text": "Wann soll der formatierte URL-Wert leer sein?"
+        },
+        "82533e60e0c3d269a8ae22b324ac4764": {
+            "text": "Diese Option kann sinnvoll sein, wenn Sie die Ausgabe von nicht verifizierten URLs im Frontend verhindern wollen."
+        },
+        "e0c72e825e62b8f03fd3d8969d43cc45": {
+            "text": "Wenn die URL bei der \u00dcberpr\u00fcfung einen http-Fehler erzeugt"
+        },
+        "3861c917dc6ed91cd0a5d0e89ed28f5b": {
+            "text": "Wenn der Status noch nicht festgelegt ist ODER bei http-Fehler"
+        },
+        "2e0740eeb28bdf5e8fe05854869919be": {
+            "text": "Testen Sie die URL-Verifizierung"
+        },
+        "44d734c06815ad70cda5f00dcd824c9d": {
+            "text": "Geben Sie eine URL zum Testen ein, wenn Sie sicherstellen m\u00f6chten, dass dieses Modul funktioniert."
+        },
+        "e5922986c3d073db39e67a41fa3b1815": {
+            "text": "Alle verifizierten URL-Daten f\u00fcr dieses Feld zur\u00fccksetzen?"
+        },
+        "a52a5916edcfcdd03c3f7a74d11dde1f": {
+            "text": "Aktivieren Sie dieses Kontrollk\u00e4stchen, um alle URL-Verifizierungsdaten f\u00fcr dieses Feld zur\u00fcckzusetzen und eine erneute \u00dcberpr\u00fcfung zu erzwingen."
+        },
+        "a5f864e50a174a6b20308bf0039183d7": {
+            "text": "Die verifizierten URL-Daten wurden zur\u00fcckgesetzt"
+        },
+        "a3c2cd32fd833e285dd05971b0d753d7": {
+            "text": "="
+        },
+        "e11966b9f8d21c35ef30d098e33f49c5": {
+            "text": "Feld, das eine URL speichert und diese verifiziert"
+        }
+    }
+}
